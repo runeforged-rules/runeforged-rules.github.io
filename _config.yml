@@ -1,6 +1,10 @@
-title: Just the Docs Template
+title: Runeforged
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+
+heading_anchors: false
+
+color_scheme: dark
 
 url: https://runeforged-rules.github.io
 
