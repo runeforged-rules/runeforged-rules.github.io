@@ -8,5 +8,5 @@ color_scheme: dark
 
 url: https://runeforged-rules.github.io
 
-aux_links:
-  Template Repository: https://github.com/runeforged-rules/runeforged-rules.github.io
+#aux_links:
+# Template Repository: https://github.com/runeforged-rules/runeforged-rules.github.io
