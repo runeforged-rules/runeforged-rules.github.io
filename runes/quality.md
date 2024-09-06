@@ -2,8 +2,6 @@
 title: Qualità
 parent: Rune
 layout: default
-permalink: runes/quality
-nav_order: 1
 ---
 
 ## Qualità delle rune
