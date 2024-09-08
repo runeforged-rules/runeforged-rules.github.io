@@ -1,21 +1,21 @@
 ---
-title: Proiettile
+title: Raggio
 parent: Rune di forma
 grand_parent: Rune
 layout: default
 ---
 
-# **Proiettile**
+# **Raggio**
 
-Lancia un proiettile che colpisce il primo oggetto che incontra lungo il suo percorso.
+Lancia un raggio che prosegue in linea retta, colpendo ogni creatura che attraversa lungo il percorso.
 
-| **Bersagli primari**   | Primo oggetto colpito                     |
+| **Bersagli primari**   | Creature all'interno della traiettoria    |
 | **Bersagli secondari** | Nessuno                                   |
-| **Costo base per LV**  | 100 mana                                  |
-| **Mod. difesa**        | DEX                                       |
+| **Costo base per LV**  | 500 mana                                  |
+| **Mod. difesa**        | Nessuno                                   |
 
 ## Effetto
-Viaggia in linea retta e colpisce il primo oggetto che trova. Se supera la gittata massima senza colpire nulla, si dissipa nell'aria senza produrre ulteriori effetti.
+Si propaga istantaneamente dal punto di origine, colpendo tutte le creature entro la gittata del raggio. Il raggio attraversa le creature ma si dissipa se incontra ostacoli solidi significativi.
 
 ## Qualità
 

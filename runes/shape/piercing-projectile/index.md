@@ -1,21 +1,21 @@
 ---
-title: Proiettile
+title: Proiettile penetrante
 parent: Rune di forma
 grand_parent: Rune
 layout: default
 ---
 
-# **Proiettile**
+# **Proiettile penetrante**
 
-Lancia un proiettile che colpisce il primo oggetto che incontra lungo il suo percorso.
+Lancia un proiettile che viaggia in linea retta, attraversando tutti i bersagli e gli ostacoli minori che incontra.
 
 | **Bersagli primari**   | Primo oggetto colpito                     |
-| **Bersagli secondari** | Nessuno                                   |
-| **Costo base per LV**  | 100 mana                                  |
+| **Bersagli secondari** | Tutti i bersagli nella traiettoria        |
+| **Costo base per LV**  | 200 mana                                  |
 | **Mod. difesa**        | DEX                                       |
 
 ## Effetto
-Viaggia in linea retta e colpisce il primo oggetto che trova. Se supera la gittata massima senza colpire nulla, si dissipa nell'aria senza produrre ulteriori effetti.
+Il proiettile viaggia in linea retta, attraversando tutti i bersagli e gli ostacoli minori lungo la sua traiettoria. Si dissipa solo se colpisce un ostacolo significativo o alla fine della sua gittata massima.
 
 ## Qualità
 
