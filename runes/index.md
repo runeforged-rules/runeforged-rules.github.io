@@ -7,13 +7,19 @@ has_toc: false
 
 # Rune
 
-La runa è una disposizione geometrica di materiale capace di condurre mana (comunemente <ins>oricalco</ins>).
+Una **runa** è una forma geometrica realizza in materiale capace di condurre mana (comunemente <ins>oricalco</ins>), disposta in modo tale da avere effetti osservabili sul mana che la attraversa.
 
-Le rune sono il modo più comune per manifestare il mana in forme concrete tramite l'uso di **[Evocazioni](/)**.
-Incanalando un flusso di mana attraverso una runa infatti questo acquisisce le proprietà caratteristiche della forma geometrica rappresentata.
+Le rune sono uno strumento per manifestare il mana in forme concrete, tramite l'uso di **[Evocazioni](/)**.
+Incanalando un [flusso di mana](./mana-flux) attraverso una serie di rune infatti questo acquisisce le proprietà inscritte in esse.
 
 Aumentando la precisione e il dettaglio nella runa incrementa altrettanto l'efficacia e la potenza degli effetti manifestati.
 L'efficacia di una runa può variare in base a una moltitudine di parametri, perciò è comune l'utilizzo di un sistema di gradazione basato solamente sulle caratteristiche più ricercate: la qualità e l'efficacia finale della runa.
+
+## Tipologie di rune:
+Le rune si suddividono in 3 distinte categorie in base a come agiscono sugli effetti del flusso.
+1. [**Rune di forma**](./shape/): Rune che influenzano la traiettoria e le dimensioni finali del flusso.
+2. [**Rune di sostanza**](./substance/): Rune che stabiliscono gli effetti e il tipo di mana che verrà rilasciato dal flusso.
+3. [**Rune di controllo**](./control/): Queste rune hanno effetti che agiscono in modo generico sul flusso, alterando le proprietà delle rune precedenti.
 
 ## [Qualità](/runes/quality) delle rune:
 
@@ -37,5 +43,3 @@ Le rune di grado 5 sono estremamente complesse. La quantità di tempo, risorse e
 
 - **Grado 6 - Risonante/Leggendaria: (0.25x costo mana, raddoppia l'efficacia del mana nel flusso [LV x2])**<br>
 Più unica che rara, una runa di grado 6 applica le sue proprietà non solo al mana del flusso che la attraversa, ma anche a quello circostante, amplificando la potenza del flusso iniziale. In tutto il continente, solamente 5 rune di questo grado sono attualmente in uso.
-
-## Tipologie di rune:

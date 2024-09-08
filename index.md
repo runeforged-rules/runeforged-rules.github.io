@@ -4,6 +4,6 @@ layout: home
 nav_exclude: true
 ---
 
-# Manuale regole di Runeforged
+# **Manuale regole di Runeforged**
 ## Indice
 - [Rune](/runes/)

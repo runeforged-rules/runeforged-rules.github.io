@@ -2,6 +2,7 @@
 title: Qualità
 parent: Rune
 layout: default
+nav_order: 1
 ---
 
 ## Qualità delle rune
