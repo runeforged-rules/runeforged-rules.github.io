@@ -19,6 +19,6 @@ La disciplina del Berserker origina dai deserti di Miden, dove i combattenti si 
 | **Livello 5**  | **Abilità del percorso**: [Turbine di lame](./storm) / [Colpo dirompente](./heavy).
 | **Livello 6**  | Abilità del percorso scelto + 1
 | **Livello 7**  | **Inarrestabile**: Quando subiresti lo stato di **ferita mortale**, puoi decidere di spendere **1000 mana** per negarla.
-| **Livello 8**  | **Cura esperta**: Puoi usare un'azione per usare **2000 mana** e guarire 1 **ferita** subita.
+| **Livello 8**  | **Cura esperta**: Puoi usare un'azione per consumare **2000 mana** e guarire **1 ferita** subita.
 | **Livello 9**  | Abilità del percorso scelto + 1
 | **Livello 10** | **Abilità del percorso**: [Turbine di lame](./storm) / [Colpo dirompente](./heavy).

@@ -8,14 +8,14 @@ has_toc: false
 # **Classi**
 
 * [**Berserker**](./berserker/)
-    - [Turbine di lame](./berserker/storm)
-    - [Colpo dirompente](./berserker/heavy)
+    - [Turbine di lame](./berserker/steel-storm)
+    - [Colpo dirompente](./berserker/heavy-blade)
 * **Guerriero**
     - Specialista
     - Campione
-* **Difensore**
-    - Paladino
-    - Condottiero
+* [**Guardiano**](./guardian/)
+    - [Paladino](./guardian/paladin)
+    - [Condottiero](./guardian/commander)
 * **Tiratore**
     - Cecchino
     - Pistolero
