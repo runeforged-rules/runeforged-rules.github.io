@@ -7,7 +7,7 @@ has_toc: false
 
 # Rune
 
-Una **runa** è una forma geometrica realizza in materiale capace di condurre mana (comunemente <ins>oricalco</ins>), disposta in modo tale da avere effetti osservabili sul mana che la attraversa.
+Una **runa** è una forma geometrica realizzata in materiale capace di condurre mana (comunemente <ins>oricalco</ins>), disposta in modo tale da avere effetti osservabili sul mana che la attraversa.
 
 Le rune sono uno strumento per manifestare il mana in forme concrete, tramite l'uso di **[Evocazioni](/)**.
 Incanalando un [flusso di mana](./mana-flux) attraverso una serie di rune infatti questo acquisisce le proprietà inscritte in esse.

@@ -12,7 +12,7 @@ La disciplina del Berserker origina dai deserti di Miden, dove i combattenti si 
 
 ## Abilità per livello:
 
-| **Livello 1**  | **Mana vitale**: Quando viene colpito puoi sacrificare mana per mitigare i danni subiti, al costo di **200 mana per PV**, fino ad un massimo di danni pari al doppio del tuo punteggio in ARC.
+| **Livello 1**  | **Mana vitale**: Quando vieni colpito puoi sacrificare mana per mitigare i danni subiti, al costo di **200 mana per PV**, fino ad un massimo di danni pari al doppio del tuo punteggio in ARC.
 | **Livello 2**  | **Attacco in corsa**: Una volta per turno puoi effettuare un attacco durante l'azione di scatto, ma questo attacco non può essere un colpo preciso.
 | **Livello 3**  | **Scelta del percorso**: [Turbine di lame](./storm) / [Colpo dirompente](./heavy).
 | **Livello 4**  | **Presenza terrificante**: I nemici nel raggio di 1.5 metri dal Berserker hanno svantaggio ai tiri per colpire con attacchi a gittata.
