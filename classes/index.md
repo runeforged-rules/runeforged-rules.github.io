@@ -31,6 +31,6 @@ has_toc: false
 * **Arcanista**
     - Elementalista
     - Stregone
-* **Magus**
+* [**Mago**](./mage/)
     - Alchimista
     - Runeologo
