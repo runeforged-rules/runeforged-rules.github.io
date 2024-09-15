@@ -9,7 +9,7 @@ has_toc: false
 
 Una **runa** è una forma geometrica realizzata in materiale capace di condurre mana (comunemente <ins>oricalco</ins>), disposta in modo tale da avere effetti osservabili sul mana che la attraversa.
 
-Le rune sono uno strumento per manifestare il mana in forme concrete, tramite l'uso di **[Evocazioni](/)**.
+Le rune sono uno strumento per manifestare il mana in forme concrete, tramite l'uso di [**Evocazioni**](./evocation.md).
 Incanalando un [flusso di mana](./mana-flux) attraverso una serie di rune infatti questo acquisisce le proprietà inscritte in esse.
 
 Aumentando la precisione e il dettaglio nella runa incrementa altrettanto l'efficacia e la potenza degli effetti manifestati.
