@@ -21,9 +21,9 @@ L'unica categoria di rune che fa eccezzione a questa regola è quella delle [**r
 
 Se non vengono applicate modifiche, il flusso di mana ha le seguenti caratteristiche:
 
-* **Forma**: **Contatto**<br>Il flusso applica i suoi effetti **esclusivamente alle creature a contatto** con il punto di emissione, che sono considerati bersagli primari.
+* Forma: **Contatto**<br>Il flusso applica i suoi effetti **esclusivamente alle creature a contatto** con il punto di emissione, che sono considerati bersagli primari.
 
-* **Sostanza**: **Mana**<br>Mana nella sua forma più pura. Se a contatto con una creatura o contenitore capace di immagazzinare mana, tutto il mana presente nel flusso può essere **assorbito**, fino a raggiungere la capacità massima del ricettacolo. Altrimenti si dissipa nell'aria senza effetto.
+* Sostanza: **Mana**<br>Mana nella sua forma più pura. Se a contatto con una creatura o contenitore capace di immagazzinare mana, tutto il mana presente nel flusso può essere **assorbito**, fino a raggiungere la capacità massima del ricettacolo. Altrimenti si dissipa nell'aria senza effetto.
 
 Nel momento in cui il flusso di mana raggiunge la fine del proprio percorso di incanalazione, viene emesso nell'aria e manifesta tutte le proprietà accumulate durante il processo.
 L'azione di accumulare, incanalare e rilasciare un flusso di mana è definita [Evocazione](./evocation).
