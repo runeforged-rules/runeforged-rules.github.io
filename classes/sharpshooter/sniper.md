@@ -16,4 +16,4 @@ Un Cecchino si distingue della sua inesauribile pazienza, voltonà ferrea, e pre
 | **Livello 7**  | **Colpo letale**: Quando colpisci una creatura con un **colpo preciso** essa subisce anche 3 livelli di sanguinamento.
 | **Livello 8**  | **Concentrazione profonda**: Mantenendo la **concentrazione** ti puoi muovere per la **metà del tuo movimento** e quando subisci danno perdi concentrazione **solo se fallisci un tiro salvezza su COS (CD 10)**.
 | **Livello 9**  | **Prendere mira** Lv.3: Il bonus ottenuto durante la **concentrazione** diventa **+3 PRE**.
-| **Livello 10**  | **Cacciatore di teste**: I tuoi **colpi precisi** mentre hai **concentrazione** sono considerati colpi normali solo per quanto riguarda le difese del bersaglio, e se colpiscono la testa sono automaticamente critici.
+| **Livello 10**  | **Cacciatore di teste**: I tuoi **colpi precisi** mentre hai **concentrazione** sono considerati colpi normali per quanto riguarda il calcolo delle difese del bersaglio, e se colpiscono la testa sono automaticamente critici.
