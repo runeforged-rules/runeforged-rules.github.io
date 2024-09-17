@@ -9,7 +9,7 @@ grand_parent: Classi
 
 Un Cecchino si distingue della sua inesauribile pazienza, voltonà ferrea, e precisione sovrumana. Seguire questo percorso è tanto una battaglia contro i propri nemici quanto contro se stessi, e solo i più persistenti e talentuosi riescono a perfezionarne l'arte. Questi Cecchini sono senza pari per quanto riguarda precisione e letalità a distanza.
 
-| **Livello 3**  | **Prendere mira**: Se hai equipaggiato un'arma a gittata puoi usare **1** azione per prendere la mira ed entrare in uno stato di **concentrazione**. Ottieni **+1 PRE** finché non ti muovi, ricarichi o vieni colpito.
+| **Livello 3**  | **Prendere mira** Lv.1: Se hai equipaggiato un'arma a gittata puoi usare **1** azione per prendere la mira ed entrare in uno stato di **concentrazione**. Ottieni **+1 PRE** finché non ti muovi, ricarichi o vieni colpito.
 | **Livello 4**  | **Ricarica rapida**: Ricaricare qualsiasi arma a gittata che costerebbe **2 o più azioni** impiega **1 azione in meno**. Ricaricare **non interrompe** la **concentrazione**.
 | **Livello 5**  | **Mani ferme**: Mentre hai **concentrazione** i tuoi tiri a gittata hanno **raggio raddoppiato** e **+2** ai tiri per colpire.
 | **Livello 6**  | **Prendere mira** Lv.2: Il bonus ottenuto durante la **concentrazione** diventa **+2 PRE**.
