@@ -5,7 +5,7 @@ has_children: true
 has_toc: false
 ---
 
-# **Classi**
+# **Indice delle classi**
 
 * [**Berserker**](./berserker/)
     - [Turbine di lame](./berserker/steel-storm)
@@ -16,9 +16,9 @@ has_toc: false
 * [**Guardiano**](./guardian/)
     - [Paladino](./guardian/paladin)
     - [Condottiero](./guardian/commander)
-* **Tiratore**
-    - Cecchino
-    - Pistolero
+* [**Tiratore**](./sharpshooter/)
+    - [Cecchino](./sharpshooter/sniper.md)
+    - [Pistolero](./sharpshooter/gunslinger.md)
 * **Medico**
     - Chiurgo
     - Guaritore
@@ -28,9 +28,9 @@ has_toc: false
 * **Ladro**
     - Assassino
     - Truffatore
-* **Arcanista**
-    - Elementalista
-    - Stregone
+* [**Arcanista**](./arcanist/)
+    - [Elementalista](./arcanist/elementalist.md)
+    - [Stregone](./arcanist/sorcerer.md)
 * [**Mago**](./mage/)
     - Alchimista
     - Runeologo
