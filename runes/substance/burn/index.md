@@ -14,7 +14,7 @@ Transforma il flusso in una sostanza estremamente infiammabile, in grado di pren
 | **Costo base per LV**  | 200 mana                                  |
 
 ## Effetto
-L'evocazione ottiene l'aspetto di una fiamma viva, dando fuoco a oggetti infiammabili con cui viene a contatto e infiggendo danni da fuoco alle creature colpite.  
+L'evocazione assume l'aspetto di una fiamma viva, dando fuoco a oggetti infiammabili con cui viene a contatto e infiggendo danni da fuoco alle creature colpite.  
 - **Bersagli primari**: Per ogni LV dell'evocazione subiscono 2 danni da fuoco e 1 livello di bruciatura. Se superano un tiro salvezza su COS o ARC (CD 8 + LV) i livelli di bruciatura subiti sono dimezzati.
 - **Bersagli secondari**: Per ogni LV dell'evocazione subiscono 1 danno da fuoco. Se falliscono un tiro salvezza su COS o ARC (CD 8 + LV) ricevono livelli di bruciatura pari alla metà del LV dell'evocazione, e non subiscono bruciatura se il tiro ha successo.
 
