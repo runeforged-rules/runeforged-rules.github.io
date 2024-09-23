@@ -12,9 +12,9 @@ has_toc: false
 ## **Rune legali**
 - [**Cristallo**](./crystalize/)
 - [**Cura**](./heal/)
-- [**Fuoco**](./burn/)
 - [**Freccia**](./pierce/)
 - [**Fulmine**](./shock/)
+- [**Fuoco**](./burn/)
 - [**Ghiaccio**](./freeze/)
 - [**Lama**](./sever/)
 - [**Luce**](./shine/)
