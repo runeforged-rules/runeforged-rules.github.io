@@ -12,10 +12,10 @@ Alimentato dalla passione per le rune di sostanza di carattere elementale, l'Ele
 
 # **Rune elementali**
 
-* [**Fuoco**](/runes/substance/fire/)
-* [**Ghiaccio**](/runes/substance/frost/)
-* [**Cristallo**](/runes/substance/crystalize/)
-* [**Fulmine**](/runes/substance/lightning)
+* [**Fuoco**](/runes/substance/fire)
+* [**Ghiaccio**](/runes/substance/frost)
+* [**Cristallo**](/runes/substance/crystalize)
+* [**Fulmine**](/runes/substance/shock)
 
 | **Livello 3** | **Sovraccarico elementale** Lv.1: La **CD** per tiro salvezza delle **rune elementali** scelta è aumentata di **2**.
 | **Livello 6** | **Specializzazione runica**: Le rune elementali ottengono un effetto aggiuntivo:<br><br>**_Fuoco_**: Il **danno per livello** della runa del flusso è aumentato di **+1**.<br><br>**_Ghiaccio_**: Il **congelamento** inflitto dal flusso applica **3 danni da freddo** all'inizio del turno nemico, anziché **1**.<br><br>**_Cristallo_**: Il costo base per LV della runa è ridotto a **500 PM per LV**.<br><br>**_Fulmine_**: I livelli di folgoramento applicati da questa runa sono **raddoppiati**.
