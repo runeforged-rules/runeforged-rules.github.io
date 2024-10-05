@@ -2,7 +2,7 @@
 title: Competenza arcana
 parent: Attributi
 layout: default
-nav_order: 0
+nav_order: 1000
 ---
 
 # **Competenza arcana**
