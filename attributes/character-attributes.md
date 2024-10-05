@@ -7,22 +7,22 @@ nav_order: 1
 
 # **Attributi personali**
 
-# **Inganno**
+## **Inganno**
 Determina l'abilità di mentire e passare inosservati.
 
-# **Presenza**
+## **Presenza**
 Determina l'abilità di intimidire e di catturare l'attenzione.
 
-# **Fascino**
+## **Fascino**
 Determina l'abilità di ammaliare e convincere con le proprie parole.
 
-**Percezione**
+## **Percezione**
 Determina la capacità di osservare i dettagli nell'ambiente e ascoltare con attenzione.
 
-**Memoria**
+## **Memoria**
 Determina la capacità di trattenere e ricordare conoscenze a lungo termine.
 
-**Intuito**
+## **Intuito**
 Determina la capacità di comprendere o elaborare informazioni per ricavarne altre.
 
 Quando un giocatore **fallisce** un tiro di prova su un attributo mentale, ottiene **1 punto esperienza** su di esso.

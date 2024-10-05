@@ -25,4 +25,4 @@ Determina l'abilità ed efficienza nel controllo del mana. Il punteggio indica q
 ## **Affinità al mana (AFF)**
 Determina l'adattamento fisico alla presenza di mana. Il punteggio contribuisce alla capacità massima e all'assorbimento passivo di mana. Viene usato per tiri riguardanti la capacità di assorbire o percepire il mana circostante, e determina i punti mana massimi del personaggio.
 
-Quando un personaggio sale di livello può incrementare di 1 punto un attributo fisico a scelta, con la restrizione di non poter aumentare lo stesso attributo scelto al livello precedente.
+Quando un personaggio sale di livello può incrementare di **1 punto** un attributo fisico a scelta, con la restrizione di **non** poter aumentare lo **stesso attributo scelto** al livello **precedente**.
