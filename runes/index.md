@@ -7,6 +7,8 @@ has_toc: false
 
 # Rune
 
+[Indice](#indice)
+
 Una **runa** è una forma geometrica realizzata in materiale capace di condurre mana (comunemente <ins>oricalco</ins>), disposta in modo tale da avere effetti osservabili sul mana che la attraversa.
 
 Le rune sono uno strumento per manifestare il mana in forme concrete, tramite l'uso di [**Evocazioni**](./evocation.md).
@@ -43,3 +45,47 @@ Le rune di grado 5 sono estremamente complesse. La quantità di tempo, risorse e
 
 - **Grado 6 - Risonante/Leggendaria: (0.25x costo mana, raddoppia l'efficacia del mana nel flusso [LV x2])**<br>
 Più unica che rara, una runa di grado 6 applica le sue proprietà non solo al mana del flusso che la attraversa, ma anche a quello circostante, amplificando la potenza del flusso iniziale. In tutto il continente, solamente 5 rune di questo grado sono attualmente in uso.
+
+<style>
+table th:first-of-type {
+    width: 34%;
+}
+table th:nth-of-type(2) {
+    width: 33%;
+}
+table th:nth-of-type(3) {
+    width: 33%;
+}
+</style>
+
+## **Indice**
+
+| Forma | Sostanza | Controllo |
+|-------|----------|-----------|
+| [Esplosione](./shape/small-explosion/)                            | [Acido](./substance/melt/)                   | [Accelerazione](./control/)            |
+| [Esplosione maggiore](./shape/large-explosion/)                   | [Corruzione](./substance/corrupt/)           | [Condizione: Alternanza](./control/)   |
+| [Nuvola](./shape/cloud/)                                          | [Cristallo](./substance/crystalize/)         | [Condizione: Inverso](./control/)      |
+| [Proiettile](./shape/projectile/)                                 | [Cura](./substance/heal/)                    | [Condizione: Pressione](./control/)    |
+| [Proiettile a rimbalzo](./shape/bouncing-projectile/)             | [Debolezza](./substance/weaken/)             | [Condizione: Soglia mana](./control/)  |
+| [Proiettile istantaneo](./shape/instant-projectile/)              | [Disintegrazione](./substance/disintegrate/) | [Condizione: Temperatura](./control/)  |
+| [Proiettile istantaneo vuoto](./shape/hollow-instant-projectile/) | [Forza](./substance/)                        | [Divisione](./control/)                |
+| [Proiettile maggiore](./shape/large-projectile/)                  | [Freccia](./substance/pierce/)               | [Espansione](./control/)               |
+| [Proiettile penetrante](./shape/piercing-projectile/)             | [Fulmine](./substance/shock/)                | [Estensione](./control/)               |
+| [Proiettile tracciante](./shape/homing-projectile/)               | [Fumo](./substance/smoke/)                   | [Rallentamento](./control/)            |
+| [Proiettile tracciante vuoto](./shape/hollow-homing-projectile/)  | [Fuoco](./substance/burn/)                   | [Ripetizione](./control/)              |
+| [Proiettile vuoto](./shape/hollow-projectile/)                    | [Fusione](./substance/melt/)                 | [Unione](./control/)                   |
+| [Raggio](./shape/ray/)                                            | [Ghiaccio](./substance/freeze/)              |                                        |
+| [Raggio maggiore](./shape/wide-ray/)                              | [Lama](./substance/sever/)                   |                                        |
+| [Sigillo](./shape/seal/)                                          | [Luce](./substance/shine/)                   |                                        |
+| [Ventaglio](./shape/spread/)                                      | [Rigenerazione](./substance/regenerate/)     |                                        |
+|                                                                   | [Morte](./substance/kill/)                   |                                        |
+|                                                                   | [Nulla](./substance/null/)                   |                                        |
+|                                                                   | [Peso](./substance/mass/)                    |                                        |
+|                                                                   | [Pietrificazione](./substance/petrify/)      |                                        |
+|                                                                   | [Plasma](./substance/plasma/)                |                                        |
+|                                                                   | [Potenza](./substance/empower/)              |                                        |
+|                                                                   | [Purificazione](./substance/purify/)         |                                        |
+|                                                                   | [Resuscitazione](./substance/revive/)        |                                        |
+|                                                                   | [Spinta](./substance/push/)                  |                                        |
+|                                                                   | [Teletrasporto](./substance/teleport/)       |                                        |
+|                                                                   | [Unto](./substance/oil/)                     |                                        |
