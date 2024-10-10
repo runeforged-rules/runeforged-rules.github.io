@@ -7,7 +7,8 @@ layout: default
 
 # **Corruzione**
 
-Trasforma il flusso in un'energia malefica che infligge danni puri e corrompe il mana dei bersagli, causando effetti debilitanti.
+Trasforma il flusso in un'energia malefica che infligge danni puri e corrompe il mana dei bersagli, causando effetti debilitanti.  
+Il possesso e l'utilizzo di questa runa sono **proibiti**.
 
 | **Tipo di danno**      | Puro                                      |
 | **Danni per LV**       | 2                                         |
@@ -27,5 +28,3 @@ L'evocazione si manifesta come un'energia oscura e corruttrice, infliggendo dann
   ![Grado 3](3.png "Grado 3")
 - ### Grado 4<br>
   ![Grado 4](4.png "Grado 4")
-- ### Grado 5<br>
-  ![Grado 5](5.png "Grado 5")
