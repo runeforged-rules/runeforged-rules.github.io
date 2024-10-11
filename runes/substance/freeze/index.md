@@ -7,13 +7,14 @@ layout: default
 
 # **Ghiaccio**
 
-DESCRIZIONE
+Trasforma il flusso in un'energia congelante che ricopre i propri bersagli un rigido strato di ghiaccio.
 
 | **Tipo di danno**      | Freddo                                    |
 | **Danni per LV**       | 2                                         |
 | **Costo base per LV**  | 200 mana                                  |
 
-## Effetto  
+## Effetto
+L'evocazione si trasforma in una nuvola di vapore glaciale, che raffredda istantaneamente ogni superficie su cui si deposita, infliggendo danni da freddo e rallentando le creature colpite.
 - **Bersagli primari**: Per ogni LV dell'evocazione subiscono 2 danni da freddo e 1 livello di congelamento. Se superano un tiro salvezza su COS o ARC (CD 7 + LV) i livelli di congelamento subiti sono dimezzati.
 - **Bersagli secondari**: Per ogni LV dell'evocazione subiscono 1 danno da freddo. Se falliscono un tiro salvezza su COS o ARC (CD 8 + LV) ricevono livelli di congelamento pari alla metà del LV dell'evocazione, e non subiscono congelamento se il tiro ha successo.
 
