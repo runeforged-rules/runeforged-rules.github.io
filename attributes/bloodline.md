@@ -22,9 +22,9 @@ Discendente puro di stirpe antica. Non contaminato da mana, è incapace di incan
 # **Attributi base**
 
 |   |**Umano**|**Purosangue**|**Mezzosangue**|**Senza mana**|
-|**STR**|1|-1|0|1|
-|**ACC**|1|-1|0|1|
+|**FOR**|1|-1|0|1|
+|**PRE**|1|-1|0|1|
 |**DEX**|1|-1|0|1|
-|**CON**|1|-1|0|1|
+|**COS**|1|-1|0|1|
 |**ARC**|-2|2|1|-5|
-|**MAN**|-2|2|1|-5|
+|**AFF**|-2|2|1|-5|
