@@ -60,32 +60,34 @@ table th:nth-of-type(3) {
 
 ## **Indice**
 
+Le rune indicate con **(P)** sono proibite: l'utilizzo e il possesso di queste rune risulteranno in gravi conseguenze.
+
 | Forma | Sostanza | Controllo |
 |-------|----------|-----------|
-| [Esplosione](./shape/small-explosion/)                            | [Acido](./substance/melt/)                   | [Accelerazione](./control/)            |
-| [Esplosione maggiore](./shape/large-explosion/)                   | [Corruzione](./substance/corrupt/)           | [Condizione: Alternanza](./control/)   |
-| [Nuvola](./shape/cloud/)                                          | [Cristallo](./substance/crystalize/)         | [Condizione: Inverso](./control/)      |
-| [Proiettile](./shape/projectile/)                                 | [Cura](./substance/heal/)                    | [Condizione: Pressione](./control/)    |
-| [Proiettile a rimbalzo](./shape/bouncing-projectile/)             | [Debolezza](./substance/weaken/)             | [Condizione: Soglia mana](./control/)  |
-| [Proiettile istantaneo](./shape/instant-projectile/)              | [Disintegrazione](./substance/disintegrate/) | [Condizione: Temperatura](./control/)  |
-| [Proiettile istantaneo vuoto](./shape/hollow-instant-projectile/) | [Forza](./substance/)                        | [Divisione](./control/)                |
-| [Proiettile maggiore](./shape/large-projectile/)                  | [Freccia](./substance/pierce/)               | [Espansione](./control/)               |
-| [Proiettile penetrante](./shape/piercing-projectile/)             | [Fulmine](./substance/shock/)                | [Estensione](./control/)               |
-| [Proiettile tracciante](./shape/homing-projectile/)               | [Fumo](./substance/smoke/)                   | [Rallentamento](./control/)            |
-| [Proiettile tracciante vuoto](./shape/hollow-homing-projectile/)  | [Fuoco](./substance/burn/)                   | [Ripetizione](./control/)              |
-| [Proiettile vuoto](./shape/hollow-projectile/)                    | [Fusione](./substance/melt/)                 | [Unione](./control/)                   |
-| [Raggio](./shape/ray/)                                            | [Ghiaccio](./substance/freeze/)              |                                        |
-| [Raggio maggiore](./shape/wide-ray/)                              | [Lama](./substance/sever/)                   |                                        |
-| [Sigillo](./shape/seal/)                                          | [Luce](./substance/shine/)                   |                                        |
-| [Ventaglio](./shape/spread/)                                      | [Rigenerazione](./substance/regenerate/)     |                                        |
-|                                                                   | [Morte](./substance/kill/)                   |                                        |
-|                                                                   | [Nulla](./substance/null/)                   |                                        |
-|                                                                   | [Peso](./substance/mass/)                    |                                        |
-|                                                                   | [Pietrificazione](./substance/petrify/)      |                                        |
-|                                                                   | [Plasma](./substance/plasma/)                |                                        |
-|                                                                   | [Potenza](./substance/empower/)              |                                        |
-|                                                                   | [Purificazione](./substance/purify/)         |                                        |
-|                                                                   | [Resuscitazione](./substance/revive/)        |                                        |
-|                                                                   | [Spinta](./substance/push/)                  |                                        |
-|                                                                   | [Teletrasporto](./substance/teleport/)       |                                        |
-|                                                                   | [Unto](./substance/oil/)                     |                                        |
+| [Esplosione](./shape/small-explosion/)                            | [Acido](./substance/melt/)                                        | [Accelerazione](./control/)            |
+| [Esplosione maggiore<sup> ( P )</sup>](./shape/large-explosion/)  | [Corruzione<sup> ( P )</sup>](./substance/corrupt/)               | [Condizione: Alternanza](./control/)   |
+| [Nuvola<sup> ( P )</sup>](./shape/cloud/)                         | [Cristallo](./substance/crystalize/)                              | [Condizione: Inverso](./control/)      |
+| [Proiettile](./shape/projectile/)                                 | [Cura](./substance/heal/)                                         | [Condizione: Pressione](./control/)    |
+| [Proiettile a rimbalzo](./shape/bouncing-projectile/)             | [Debolezza](./substance/weaken/)                                  | [Condizione: Soglia mana](./control/)  |
+| [Proiettile istantaneo<sup> ( P )</sup>](./shape/instant-projectile/)| [Disintegrazione<sup> ( P )</sup>](./substance/disintegrate/)  | [Condizione: Temperatura](./control/)  |
+| [Proiettile istantaneo vuoto<sup> ( P )</sup>](./shape/hollow-instant-projectile/)| [Forza](./substance/)                             | [Divisione](./control/)                |
+| [Proiettile maggiore](./shape/large-projectile/)                  | [Freccia](./substance/pierce/)                                    | [Espansione](./control/)               |
+| [Proiettile penetrante](./shape/piercing-projectile/)             | [Fulmine](./substance/shock/)                                     | [Estensione](./control/)               |
+| [Proiettile tracciante](./shape/homing-projectile/)               | [Fumo](./substance/smoke/)                                        | [Rallentamento](./control/)            |
+| [Proiettile tracciante vuoto](./shape/hollow-homing-projectile/)  | [Fuoco](./substance/burn/)                                        | [Ripetizione](./control/)              |
+| [Proiettile vuoto](./shape/hollow-projectile/)                    | [Fusione](./substance/melt/)                                      | [Unione](./control/)                   |
+| [Raggio](./shape/ray/)                                            | [Ghiaccio](./substance/freeze/)                                   |                                        |
+| [Raggio maggiore<sup> ( P )</sup>](./shape/wide-ray/)             | [Lama](./substance/sever/)                                        |                                        |
+| [Sigillo](./shape/seal/)                                          | [Luce](./substance/shine/)                                        |                                        |
+| [Ventaglio](./shape/spread/)                                      | [Rigenerazione](./substance/regenerate/)                          |                                        |
+|                                                                   | [Morte<sup> ( P )</sup>](./substance/kill/)                       |                                        |
+|                                                                   | [Nulla](./substance/null/)                                        |                                        |
+|                                                                   | [Peso<sup> ( P )</sup>](./substance/mass/)                        |                                        |
+|                                                                   | [Pietrificazione<sup> ( P )</sup>](./substance/petrify/)          |                                        |
+|                                                                   | [Plasma](./substance/plasma/)                                     |                                        |
+|                                                                   | [Potenza](./substance/empower/)                                   |                                        |
+|                                                                   | [Purificazione](./substance/purify/)                              |                                        |
+|                                                                   | [Resuscitazione](./substance/revive/)                             |                                        |
+|                                                                   | [Spinta](./substance/push/)                                       |                                        |
+|                                                                   | [Teletrasporto<sup> ( P )</sup>](./substance/teleport/)           |                                        |
+|                                                                   | [Unto](./substance/oil/)                                          |                                        |
