@@ -17,7 +17,7 @@ Determina la competenza con strumenti di precisione e la mira con armi a gittata
 Determina l'agilità di movimento e la velocità. Contribuisce alla Classe Armatura (CA) del personaggio, viene usato nei tiri salvezza che richiedono velocità di evasione e nelle prove basate sulla prontezza dei riflessi o su movimenti rapidi. Il punteggio viene aggiunto ulteriormente al'armatura locale (AL) di ogni parte del corpo e aiuta a difendersi contro i colpi di precisione.
 
 ## **Costituzione (COS)**
-Determina resistenza fisica contro attacchi e malattie. Contribuisce alla Classe Armatura (CA) del personaggio e viene usato nei tiri salvezza per sopportare o resistere a un attacco. Il punteggio determina i punti vita massimi del personaggio. 
+Determina resistenza fisica contro attacchi e malattie. Contribuisce alla Classe Armatura (CA) del personaggio e viene usato nei tiri salvezza per sopportare o resistere a un attacco. Il punteggio determina i punti salute massimi del personaggio e la resistenza a subire ferite mortali.
 
 ## **Arcano (ARC)**
 Determina l'abilità ed efficienza nel controllo del mana. Il punteggio indica quanto mana può essere utilizzato per evocazione e viene usato nei tiri salvezza riguardanti l'utilizzo o manipolazione del mana.

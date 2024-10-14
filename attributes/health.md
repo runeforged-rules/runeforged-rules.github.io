@@ -35,7 +35,7 @@ Fallire nuovamente il [**tiro mortale**](#tiro-mortale) (effettuato alla fine di
 
 ## **Tiro mortale**
 
-Il **tiro mortale** si esegue tirando un d6 al cui risultato si aggiunge il modificatore di CON della creatura.
+Il **tiro mortale** si esegue tirando un **d6** al cui risultato si aggiunge il modificatore di **COS** della creatura (`d6 + COS`).
 
 Se il risultato del **tiro mortale** è maggiore del numero delle [**ferite**](#ferite) sostenute dalla creatura (inclusa quella appena ricevuta) non si verificano conseguenze aggiuntive.
-Nel caso contrario (risultato uguale o minore al numero di [**ferite**](#ferite)), la creatura ottiene la condizione di [**ferita mortale**](#ferita-mortale), morendo se la condizione è già presente.
+Nel caso contrario (risultato uguale o minore al numero di [**ferite**](#ferite)), la creatura ottiene la condizione di [**ferita mortale**](#ferita-mortale), morendo immediatamente se la condizione era già presente.
