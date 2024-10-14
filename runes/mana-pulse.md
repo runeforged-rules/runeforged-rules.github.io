@@ -13,7 +13,8 @@ Quando il mana del nucleo attraversa il conduttore si propaga autonomamente al s
 Quando l'**impulso arcano** attraversa una runa **e possiede abbastanza mana per attivarla**, ne guadagna le proprietà caratterstiche dimenticando quelle iniziali: le [**runa di forma**](./shape/) sovrascrivono le caratteristiche di **espansione** quando l'impulso viene liberato nell'aria e le [**runa di sostanza**](./substance/) modificano le **proprietà fondamentali** del mana facendogli assumere sembianze uniche, come un gas infiammabile o un cristallo solido.  
 Questo significa che, quando due rune della stessa tipologia sono attraversate dall'impulso, **l'ultima runa attraversata sovrascriverà gli effetti di quelle precedenti nella stessa tipologia**.
 
-La tipologia di rune che fa eccezzione a questa regola è quella delle [**runa di controllo**](./control/). Queste rune sono uniche nel modo in cui **non interferiscono con le caratteristiche dell'impulso**, ma le **espandono / modificano** senza cancellare quelle precedenti.
+La tipologia di rune che fa eccezzione a questa regola è quella delle [**runa di controllo**](./control/). Queste rune sono uniche nel modo in cui **non interferiscono con le caratteristiche dell'impulso**,  
+ma le **espandono / modificano** senza cancellare quelle precedenti.
 
 ---
 
