@@ -18,6 +18,8 @@ I **PS** non possono eccedere il valore massimo ma possono andare in negativo. S
 
 Tutti i **PS** si rigenerano durante un riposo lungo, e la metà durante un riposo breve.
 
+---
+
 ## **Ferite**
 
 I danni subiti da una creatura che non sono facilmente guaribili.
@@ -26,12 +28,16 @@ Con ogni **ferita** subita la creatura si avvicina sempre di più alla morte: og
 
 Le **ferite** non guariscono con il riposo, per curarle è necessario operare con strumenti medici o visitare un guaritore specializzato.
 
+---
+
 ## **Ferita mortale**
 
 Una creatura è afflitta da questa condizione quando è sull'orlo della morte.
 Finché si possiede questa condizione le azioni massime per turno sono ridotte a **1 azione per turno**, non si possono effettuare movimenti se non con l'azione di scatto (senza bonus di movimento), e tutti i danni subiti in questo stato sono considerati **critici**. Inoltre, alla fine di ogni turno, la creatura afflitta effettua un [**tiro mortale**](#tiro-mortale).
 
 Fallire nuovamente il [**tiro mortale**](#tiro-mortale) (effettuato alla fine di ogni turno o quando viene subita una nuova [**ferita**](#ferite)) causa la morte della creatura.
+
+---
 
 ## **Tiro mortale**
 
