@@ -1,5 +1,5 @@
 ---
-title: Discendenza
+title: Punti salute e Ferite
 parent: Attributi
 layout: default
 nav_order: 30
