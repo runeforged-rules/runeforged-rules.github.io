@@ -5,7 +5,7 @@ layout: default
 nav_order: 30
 ---
 
-## Impulso arcano
+# Impulso arcano
 
 Un [**nucleo arcano**][nucleo], dopo essere creato, può essere inserito all'interno di un conduttore di mana (come un circuito di oricalco o una serie di rune) per prolungarne la durata.  
 Quando il mana del nucleo attraversa il conduttore si propaga autonomamente al suo interno, potenzialmente assumendo nuove caratteristiche in base al percorso compiuto e alle rune attivate. In questo stato più malleabile, il mana in movimento è considerato un **impulso arcano**, e mantiene questo stato finché attraversa il circuito conduttore nel quale si propaga, fino a raggiungere la fine ed essere [**evocato**](./evocation).
