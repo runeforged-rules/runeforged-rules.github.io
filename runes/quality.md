@@ -5,7 +5,7 @@ layout: default
 nav_order: 1
 ---
 
-## Qualità delle rune
+# Qualità delle rune
 
 | Qualità       | Grado         | Costo         |
 |:--------------|:--------------|:--------------|
