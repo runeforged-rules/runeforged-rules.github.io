@@ -7,7 +7,7 @@ layout: default
 
 # **Cristallo**
 
-Trasforma il flusso in una sostanza solida e trasparente come il cristallo, in grado di stordire i bersagli e creare formazioni cristalline permanenti al contatto con superfici solide.
+Trasforma l'impulso in una sostanza solida e trasparente come il cristallo, in grado di stordire i bersagli e creare formazioni cristalline permanenti al contatto con superfici solide.
 
 | **Tipo di danno**      | Impatto                                   |
 | **Danni per LV**       | 2                                         |

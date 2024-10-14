@@ -7,7 +7,7 @@ layout: default
 
 # **Proiettile istantaneo vuoto**
 
-Lancia un proiettile che si teletrasporta sul bersaglio scelto, assumendo immediatamente la forma precedente del flusso.
+Lancia un proiettile che si teletrasporta sul bersaglio scelto, assumendo immediatamente la forma precedente dell'impulso.
 
 | **Bersagli primari**   | Nessuno                                   |
 | **Bersagli secondari** | Bersaglio scelto                          |
@@ -15,7 +15,7 @@ Lancia un proiettile che si teletrasporta sul bersaglio scelto, assumendo immedi
 | **Mod. difesa**        | Nessuno                                   |
 
 ## Effetto
-La runa permette di selezionare un bersaglio entro la gittata. Il proiettile si teletrasporta sulla sua posizione e si trasforma immediatamente nella forma precedente del flusso. Il proiettile non può essere bloccato, schivato o cancellato in alcun modo.
+La runa permette di selezionare un bersaglio entro la gittata. Il proiettile si teletrasporta sulla sua posizione e si trasforma immediatamente nella forma precedente dell'impulso. Il proiettile non può essere bloccato, schivato o cancellato in alcun modo.
 
 ## Qualità
 

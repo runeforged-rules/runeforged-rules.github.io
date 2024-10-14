@@ -2,7 +2,7 @@
 title: Evocazione
 parent: Rune
 layout: default
-nav_order: 0
+nav_order: 40
 ---
 
 # **Evocazione**

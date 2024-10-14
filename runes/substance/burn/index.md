@@ -7,7 +7,7 @@ layout: default
 
 # **Fuoco**
 
-Transforma il flusso in una sostanza estremamente infiammabile, in grado di prendere fuoco al solo contatto con l'aria.
+Transforma l'impulso in una sostanza estremamente infiammabile, in grado di prendere fuoco al solo contatto con l'aria.
 
 | **Tipo di danno**      | Fuoco                                     |
 | **Danni per LV**       | 2                                         |

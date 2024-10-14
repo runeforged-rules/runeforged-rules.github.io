@@ -9,4 +9,4 @@ has_toc: false
 
 # **Rune di controllo**
 
-Le rune di controllo aggiungono caratteristiche e proprietà al flusso o modificano quelle esistenti.
+Le rune di controllo aggiungono caratteristiche e proprietà all'impulso o modificano quelle esistenti.

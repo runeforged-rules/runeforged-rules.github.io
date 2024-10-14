@@ -14,11 +14,11 @@ Descrizione del mago
 | **Livello 2** | **Scelta del percorso**: [Alchimista](./alchemist) / [Runeologo](./runemaster).|
 | **Livello 3** | **Scrittura rapida**: Puoi scrivere rune anche **durante il combattimento**.|
 | **Livello 4** | **Studio runico**: Sei capace di scrivere rune fino a **grado 3**.|
-| **Livello 5** | **Preparazione arcana** Lv.1: Puoi usare **1 azione** per incanalare un flusso di mana preparato. Il mana di questo flusso verrà **aggiunto al mana del prossimo flusso** evocato. Un solo flusso può essere preparato contemporaneamente, e il flusso preparato si dissipa dopo **1 turno**.|
+| **Livello 5** | **Preparazione arcana** Lv.1: Puoi usare **1 azione** per incanalare un impulso arcano preparato. Il mana di questo impulso verrà **aggiunto al mana del prossimo impulso** evocato. Un solo impulso può essere preparato contemporaneamente, e l'impulso preparato si dissipa dopo **1 turno**.|
 | **Livello 6** | **Abilità del percorso**: [Alchimista](./alchemist) / [Runeologo](./runemaster).|
 | **Livello 7** | **Maestria runica**: Sei capace di scrivere rune fino a **grado 4**.|
 | **Livello 8** | **Batteria arcana**: Il tuo corpo è in grado di assorbire e trattenere più mana del normale, aumentando il tuo mana massimo di **1000 per livello** di mago.|
-| **Livello 9** | **Preparazione arcana** Lv.2: Fino a **due flussi** possono essere preparati contemporaneamente, e il flusso preparato si dissipa dopo **1 minuto**.|
+| **Livello 9** | **Preparazione arcana** Lv.2: Fino a **due flussi** possono essere preparati contemporaneamente, e l'impulso preparato si dissipa dopo **1 minuto**.|
 | **Livello 10** | **Abilità del percorso**: [Alchimista](./alchemist) / [Runeologo](./runemaster).|
 
 ## Tempi di scrittura su carta

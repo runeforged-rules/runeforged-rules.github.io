@@ -7,7 +7,7 @@ layout: default
 
 # **Fulmine**
 
-Trasforma il flusso in un'energia elettrica concentrata, capace di folgorare i bersagli e diffondersi rapidamente attraverso oggetti conduttivi.
+Trasforma l'impulso in un'energia elettrica concentrata, capace di folgorare i bersagli e diffondersi rapidamente attraverso oggetti conduttivi.
 
 | **Tipo di danno**      | Fulmine                                   |
 | **Danni per LV**       | 1                                         |

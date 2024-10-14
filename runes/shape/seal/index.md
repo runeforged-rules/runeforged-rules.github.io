@@ -7,7 +7,7 @@ layout: default
 
 # **Sigillo**
 
-Preserva il flusso in un luogo fisso, attivabile tramite contatto fisico o con un evocazione.
+Preserva l'impulso in un luogo fisso, attivabile tramite contatto fisico o con un evocazione.
 
 | **Bersagli primari**   | Nessuno                                   |
 | **Bersagli secondari** | Nessuno                                   |
@@ -15,7 +15,7 @@ Preserva il flusso in un luogo fisso, attivabile tramite contatto fisico o con u
 | **Mod. difesa**        | Nessuno                                   |
 
 ## Effetto
-Piazza immediatamente un sigillo, che può essere posizionato su una superficie solida o anche sospeso in aria. Il sigillo preserva il flusso nella posizione specificata. Quando viene attivato (tramite contatto fisico o quando bersaglio di un'evocazione), il sigillo rilascia la forma precedente del flusso, permettendo l’esecuzione del suo effetto.
+Piazza immediatamente un sigillo, che può essere posizionato su una superficie solida o anche sospeso in aria. Il sigillo preserva l'impulso nella posizione specificata. Quando viene attivato (tramite contatto fisico o quando bersaglio di un'evocazione), il sigillo rilascia la forma precedente dell'impulso, permettendo l’esecuzione del suo effetto.
 
 ## Modello
 - ### Grado 1<br>

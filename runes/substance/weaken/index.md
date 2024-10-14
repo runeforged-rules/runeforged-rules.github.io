@@ -7,7 +7,7 @@ layout: default
 
 # **Debolezza**
 
-Trasforma il flusso in un'energia debilitante che svuota il bersaglio della sue forze ed energie, infliggendo livelli di indebolimento senza infliggere danni diretti.
+Trasforma l'impulso in un'energia debilitante che svuota il bersaglio della sue forze ed energie, infliggendo livelli di indebolimento senza infliggere danni diretti.
 
 | **Tipo di danno**      | Nessuno                                   |
 | **Danni per LV**       | 0                                         |

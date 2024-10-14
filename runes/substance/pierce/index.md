@@ -7,7 +7,7 @@ layout: default
 
 # **Freccia**
 
-Trasforma il flusso in un'energia affilata e perforante, capace di causare danni profondi ai bersagli colpiti.
+Trasforma l'impulso in un'energia affilata e perforante, capace di causare danni profondi ai bersagli colpiti.
 
 | **Tipo di danno**      | Perforante                                |
 | **Danni per LV**       | 2                                         |

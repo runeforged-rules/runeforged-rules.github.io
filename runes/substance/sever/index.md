@@ -7,7 +7,7 @@ layout: default
 
 # **Lama**
 
-Trasforma il flusso in un'energia affilata come una lama, capace di generare tagli netti e infliggere ferite profonde nelle creature colpite.
+Trasforma l'impulso in un'energia affilata come una lama, capace di generare tagli netti e infliggere ferite profonde nelle creature colpite.
 
 | **Tipo di danno**      | Taglio                                    |
 | **Danni per LV**       | 2                                         |
