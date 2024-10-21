@@ -7,7 +7,7 @@ nav_order: 30
 
 # Impulso arcano
 
-Il mana concentrato è altamente instablile, perciò dopo la creazione di un [**nucleo arcano**][nucleo], concentrando il proprio mana in un singolo punto, questo può essere inserito all'interno di un conduttore di mana (come un circuito di oricalco o una serie di rune) per prolungarne l'esistenza.  
+Il mana concentrato è altamente instablile. Dopo la creazione di un [**nucleo arcano**][nucleo], concentrando il proprio mana in un singolo punto, questo deve essere inserito all'interno di un conduttore di mana (come un circuito di oricalco o una serie di rune) per prolungarne l'esistenza.  
 Quando il mana del nucleo entra nel conduttore, comincia a propagarsi autonomamente al suo interno, potenzialmente assumendo nuove caratteristiche in base al percorso compiuto e alle rune attivate. In questo stato di movimento il mana è più malleabile, ed è quindi considerato un **impulso arcano**. Il mana mantiene questo stato finché attraversa il circuito del conduttore nel quale è contenuto, fino a raggiungerne la fine ed essere [**evocato**](./evocation) entrando a contatto con l'aria.
 
 Quando l'**impulso arcano** attraversa una runa **e possiede abbastanza mana per attivarla**, ne guadagna le proprietà caratteristiche dimenticando quelle iniziali: le [**runa di forma**](./shape/) sovrascrivono le caratteristiche di **espansione** quando l'impulso viene liberato nell'aria e le [**runa di sostanza**](./substance/) modificano le **proprietà fondamentali** del mana facendogli assumere sembianze uniche, come un gas infiammabile o un cristallo solido.  
