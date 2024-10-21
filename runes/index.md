@@ -14,7 +14,14 @@ Una **runa** è una forma geometrica di natura frattale, realizzata in materiale
 Le rune sono lo strumento principale per influenzare il proprio mana durante un'[**evocazione**](./evocation): se un [**impulso arcano**](./mana-flux) attraversa una serie consecutiva di rune e le riesce ad attivare, ne acquisisce automaticamente le proprietà caratteristiche.
 
 Aumentando la precisione e il dettaglio geometrico nella runa, è possibile incrementare l'efficienza e la potenza degli effetti manifestati.
-L'efficacia di una runa può variare in base a una moltitudine di parametri, perciò è comune l'utilizzo di un sistema di gradazione basato solamente sulle caratteristiche più ricercate: la **purezza dell'effetto** e **l'efficienza finale** della runa.
+L'efficacia di una runa può variare in base a una moltitudine di parametri, perciò è comune l'utilizzo di un sistema di **gradazione** basato solamente sulle caratteristiche più ricercate: la **purezza dell'effetto** e **l'efficienza finale** della runa.
+
+Le rune hanno una soglia di **mana minimo per essere attivate** sotto al quale **non manifestano alcun effetto**. Se il mana di un impulso è sufficiente a superare più volte questa soglia, gli effetti dell'**evocazione** saranno amplificati. La soglia di attivazione è quindi nota come **mana per livello (LV)** della runa, poiché determina quanto mana è necessario per attivare una volta la runa, e quanto ne serve per aumentarne il livello durante l'**evocazione**. Attivare più rune in sequenza richiede mana pari alla **somma** del **mana per livello (LV)** di tutte le rune, moltiplicato per il loro **grado**, e il **livello dell'evocazione** è pari a quante volte può essere superata questa somma con il mana contenuto nell'impulso. Il livello delle rune in un evocazione dipende quindi dal **livello dell'evocazione** di cui fanno parte, calcolato partendo dal mana totale nell'**impulso arcano** e dividendolo per la somma del **mana per LV** delle rune che ne fanno parte (approssimato per difetto).
+
+Formula per il livello di un'[**evocazione**](./evocation) (arrotondare per difetto):  
+`LV (evocazione) = Mana dell'impulso / Somma del mana per LV delle rune`
+
+<ins>Un'evocazione di <b>livello 0</b> non ha alcun effetto.</ins>
 
 ## Tipologie di rune:
 Le rune si suddividono in 3 distinte categorie in base a come agiscono sugli effetti dell'impulso.
