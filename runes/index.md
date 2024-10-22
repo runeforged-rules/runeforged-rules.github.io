@@ -11,7 +11,7 @@ has_toc: false
 
 Una **runa** è una forma geometrica di natura frattale, realizzata in materiale capace di condurre mana (comunemente <ins>oricalco</ins>), e disposta in modo tale da alterare gli effetti osservabili del mana che la attraversa.
 
-Le rune sono lo strumento principale per influenzare il proprio mana durante un'[**evocazione**](./evocation): se un [**impulso arcano**](./mana-flux) attraversa una serie consecutiva di rune e le riesce ad attivare, ne acquisisce automaticamente le proprietà caratteristiche.
+Le rune sono lo strumento principale per influenzare il proprio mana durante un'[**evocazione**](./evocation): se un [**impulso arcano**](./mana-pulse) attraversa una serie consecutiva di rune e le riesce ad attivare, ne acquisisce automaticamente le proprietà caratteristiche.
 
 Aumentando la precisione e il dettaglio geometrico nella runa, è possibile incrementare l'efficienza e la potenza degli effetti manifestati.
 L'efficacia di una runa può variare in base a una moltitudine di parametri, perciò è comune l'utilizzo di un sistema di **gradazione** basato solamente sulle caratteristiche più ricercate: la **purezza dell'effetto** e **l'efficienza finale** della runa.
