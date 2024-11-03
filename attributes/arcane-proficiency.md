@@ -7,7 +7,7 @@ nav_order: 1000
 
 # **Competenza arcana**
 
-|**Punteggio**|**Mana massimo per evocazione (ARC)** | **Mana totale (AFF)**|
+|**Punteggio**|**Mana massimo per nucleo arcano (ARC)** | **Mana totale (AFF)**|
 |-----------|-----------|------------|
 | **-5**	|  0        |  0         |
 | **-4**	|  10       |  100       |
