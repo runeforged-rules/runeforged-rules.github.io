@@ -5,17 +5,23 @@ layout: default
 nav_order: 30
 ---
 
-# Impulso arcano
+## Impulso Arcano
 
-Il mana concentrato è altamente instablile. Dopo la creazione di un [**nucleo arcano**][nucleo], concentrando il proprio mana in un singolo punto, questo deve essere inserito all'interno di un conduttore di mana (come un circuito di oricalco o una serie di rune) per prolungarne l'esistenza.  
-Quando il mana del nucleo entra nel conduttore, comincia a propagarsi autonomamente al suo interno, potenzialmente assumendo nuove caratteristiche in base al percorso compiuto e alle rune attivate. In questo stato di movimento il mana è più malleabile, ed è quindi considerato un **impulso arcano**. Il mana mantiene questo stato finché attraversa il circuito del conduttore nel quale è contenuto, fino a raggiungerne la fine ed essere [**evocato**](./evocation) entrando a contatto con l'aria.
+L'**impulso arcano** è il flusso di mana concentrato e stabilizzato che scorre attraverso un circuito di oricalco durante il processo di [evocazione](./evocation). Una volta che il [nucleo arcano](./arcane-core) è stato creato, l'impulso arcano rappresenta il mezzo attraverso cui il mana si propaga, assumendo le caratteristiche specifiche delle rune che attraversa.
 
-Quando l'**impulso arcano** attraversa una runa **e possiede abbastanza mana per attivarla**, ne guadagna le proprietà caratteristiche dimenticando quelle iniziali: le [**runa di forma**](./shape/) sovrascrivono le caratteristiche che descrivono la **forma** dell'evocazione quando l'impulso viene liberato nell'aria e le [**rune di sostanza**](./substance/) modificano le **proprietà materiali** del mana facendogli assumere sembianze uniche, come un gas infiammabile o un cristallo solido.  
-Questo significa che, quando due rune della stessa tipologia sono attraversate dall'impulso, **l'ultima runa attraversata sovrascriverà gli effetti di quelle precedenti nella stessa tipologia**.
+### Caratteristiche dell'impulso arcano
 
-La tipologia di rune che fa eccezione a questa regola è quella delle [**runa di controllo**](./control/). Queste rune sono uniche poiché **non interferiscono con le caratteristiche dell'impulso**, ma le **espandono e modificano** senza cancellare quelle precedenti.
+- **Manifestazione completa**: L'impulso arcano si manifesta pienamente solo quando entra in contatto con l'aria. Fino a quel momento, rimane un flusso contenuto, pronto ad attivare le rune posizionate nel circuito di oricalco.
+- **Contenuto di mana**: L’impulso arcano contiene **tutto il mana** presente nel [nucleo arcano](./arcane-core) che lo ha generato. Questo mana non può essere alterato o potenziato una volta che l’impulso è stato creato.
+- **Interazione con le rune**: L’impulso arcano attraversa le rune attive all’interno del circuito, acquisendo proprietà secondo la geometria e la categoria delle rune.
 
----
+### Attivazione delle rune
+
+Quando l'impulso arcano attraversa una runa, essa si **attiva** e conferisce le sue proprietà al flusso di mana. Le rune si dividono in tre categorie che determinano differenti aspetti dell’evocazione:
+
+- [**Rune di forma**](./shape/): Definiscono la **forma** e i **bersagli** dell’evocazione. Ogni volta che si attiva una nuova runa di forma, tutte le rune di forma precedenti vengono disattivate, lasciando attiva solo l'ultima.
+- [**Rune di sostanza**](./substance/): Conferiscono **proprietà specifiche** all’evocazione, come il tipo di danno o effetti elementali. Anche in questo caso, l’attivazione di una nuova runa di sostanza disattiva quelle precedenti.
+- [**Rune di controllo**](./control/): Influenzano l’impulso arcano nel suo insieme e applicano effetti che persistono fino alla fine dell’evocazione. Le rune di controllo non si disattivano tra loro, perciò i loro effetti si sommano.
 
 Se non vengono applicate modifiche, l'**impulso arcano** ha le seguenti caratteristiche:
 
@@ -23,4 +29,6 @@ Se non vengono applicate modifiche, l'**impulso arcano** ha le seguenti caratter
 
 * Sostanza: **Mana**<br>    Mana nella sua forma più pura. Se entra in contatto con una creatura o un ricettacolo capace di immagazzinare mana, tutto il mana presente nell'impulso può essere **assorbito**, fino a raggiungere la capacità massima. Altrimenti si dissipa nell'aria senza effetto.
 
-[nucleo]: ./arcane-core
+### Importanza dell’impulso arcano
+
+L'impulso arcano rappresenta l’essenza della magia di un evocatore in "Runeforged". Attraverso la sua manipolazione, gli evocatori possono ottenere effetti complessi e potenziati, a condizione di saper gestire il proprio mana e attivare le rune necessarie. La potenza dell’impulso arcano, riflessa dal livello dell’evocazione, diventa quindi una misura della capacità magica e della padronanza delle arti arcane.

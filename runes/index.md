@@ -5,33 +5,38 @@ has_children: true
 has_toc: false
 ---
 
-# Rune
+# **Rune**
 
-[Indice](#indice)
+<h4 id="indice-btn"><a href="#indice">Salta all'indice</a> / <a href="./quality">Qualità</a> / <a href="./arcane-core">Nucleo arcano</a> / <a href="./mana-pulse">Impulso arcano</a> / <a href="./evocation">Evocazione</a></h4>
 
-Una **runa** è una forma geometrica di natura frattale, realizzata in materiale capace di condurre mana (comunemente <ins>oricalco</ins>), e disposta in modo tale da alterare gli effetti osservabili del mana che la attraversa.
+---
 
-Le rune sono lo strumento principale per influenzare il proprio mana durante un'[**evocazione**](./evocation): se un [**impulso arcano**](./mana-pulse) attraversa una serie consecutiva di rune e riesce ad attivarle, ne acquisisce automaticamente le proprietà caratteristiche.
+Le **rune** sono intricate **forme geometriche frattali** realizzate in **oricalco**, un metallo altamente conduttivo per il mana. Ogni runa rappresenta un circuito specializzato che modifica l’[impulso arcano](./mana-pulse) che la attraversa, conferendogli caratteristiche uniche. Grazie alla loro struttura frattale, le rune possono canalizzare e amplificare specifici aspetti del mana, in modo proporzionale alla complessità della loro geometria. Ogni runa è progettata per uno scopo preciso e si attiva quando l’impulso arcano la attraversa, modificando il flusso di energia magica e imprimendovi le proprie proprietà.
 
-Aumentando la precisione e il dettaglio geometrico nella runa, è possibile incrementare l'efficienza e la potenza degli effetti generati.
-L'efficacia di una runa può variare in base a una moltitudine di parametri, perciò è comune l'utilizzo di un sistema di **gradazione** basato solamente sulle caratteristiche più ricercate: la **purezza dell'effetto** e **l'efficienza finale** della runa.
+## **Livello delle rune e dell'evocazione**
 
-Le rune hanno una soglia di **mana minimo per essere attivate** sotto al quale **non manifestano alcun effetto**. Se il mana di un impulso è sufficiente a superare più volte questa soglia, gli effetti dell'**evocazione** saranno amplificati. Questa soglia è quindi nota come **mana per livello (LV)** della runa, poiché determina quanto mana è necessario per attivare una volta la runa, e quanto ne serve per aumentarne il livello durante l'**evocazione**. Evocare una sequenza di rune richiede un impulso che contenga mana uguale o maggiore della **somma** del **mana per livello (LV) di tutte le rune**, e il **livello dell'evocazione** è pari a quante volte può essere superata questa somma con il mana contenuto nell'impulso. Il livello delle rune in un evocazione è quindi pari al **livello dell'evocazione** di cui fanno parte, calcolato partendo dal mana totale nell'**impulso arcano** e dividendolo per la somma del **mana per LV** delle rune che ne fanno parte (approssimato per difetto).
+Il **livello delle rune** rappresenta l'efficacia e la potenza che ogni runa può conferire all'impulso arcano. Ogni runa ha un **costo in mana per livello**, che determina quanta energia magica è necessaria per attivare i suoi effetti. Le rune di grado superiore, con una realizzazione più precisa e dettagliata, tendono a offrire un costo ridotto in mana per livello, consentendo agli evocatori di utilizzare meno energia per attivare effetti potenti e versatili.
 
-Formula per il livello di un'[**evocazione**](./evocation) (arrotondare per difetto):  
-`LV (evocazione) = Mana dell'impulso / Somma del mana per LV delle rune`
+Il **livello dell'[evocazione](./evocation)** è il risultato finale dell'interazione tra l'impulso arcano e le rune attivate. Esso viene calcolato in base alla quantità di mana contenuta nell'impulso rispetto alla somma dei costi in mana delle rune attivate. In altre parole, se il mana dell'impulso supera di gran lunga il totale dei costi delle rune, il livello dell'evocazione aumenta, permettendo di manifestare effetti magici più complessi e potenti. Tuttavia, se l'impulso non ha abbastanza mana per coprire i costi, l'evocazione fallisce, senza produrre alcun effetto.
+
+Formula per il livello dell'[**evocazione**](./evocation) (arrotondare per difetto):  
+`LV (evocazione) = Mana dell'impulso / Somma del mana per livello delle rune attivate`
 
 <ins>Un'evocazione di <b>livello 0</b> non ha alcun effetto.</ins>
 
-## Tipologie di rune:
+## **Tipologie di rune**:
 Le rune si suddividono in 3 distinte categorie in base a come agiscono sugli effetti dell'impulso.
-1. [**Rune di forma**](./shape/): Rune che influenzano la traiettoria e le dimensioni finali dell'impulso.
-2. [**Rune di sostanza**](./substance/): Rune che stabiliscono gli effetti e il tipo di mana che verrà rilasciato dall'impulso.
-3. [**Rune di controllo**](./control/): Queste rune hanno effetti che agiscono in modo generico sull'impulso, alterando le proprietà delle rune precedenti.
+1. [**Rune di forma**](./shape/): Definiscono la forma e i bersagli dell’evocazione.
+2. [**Rune di sostanza**](./substance/): Determinano le proprietà e gli effetti specifici dell’evocazione.
+3. [**Rune di controllo**](./control/): Applicano effetti che influenzano l’intero impulso arcano e l’evocazione finale.
 
-## [Qualità](/runes/quality) delle rune:
+## **[Qualità](/runes/quality) delle rune**:
 
-- **Grado 0 - Malfunzionante: (10x costo mana)**<br>
+La **qualità di una runa** dipende dalla precisione e dal livello di dettaglio con cui è stata realizzata. Una runa accuratamente intagliata, con dettagli frattali ben definiti, permette un’interazione più efficace con l’impulso arcano, garantendo una trasmissione del mana priva di dispersioni o errori. Questo livello di dettaglio è fondamentale per la stabilità e la potenza dell’evocazione.
+
+Le rune sono classificate in base alla loro qualità attraverso un sistema di **grado**, che va da **grado 0** (danneggiata) a **grado 5** (perfetta). Il grado di una runa riflette la cura e l’abilità con cui è stata realizzata: una runa di grado elevato è in grado di trasferire e modificare l’impulso arcano in modo più preciso ed efficiente, consentendo all’evocazione di raggiungere la massima potenza possibile.
+
+- **Grado 0 - Danneggiata: (10x costo mana)**<br>
 La runa è malformata o danneggiata, ma riesce comunque a impartire le caratteristiche minime per ottenere un risultato visibile.
 
 - **Grado 1 - Semplice: (4x costo mana)**<br>
@@ -43,7 +48,7 @@ La forma più complessa realizzabile a mano. Abbastanza efficiente da poter mani
 - **Grado 3 - Efficace: (1x costo mana)**<br>
 Realizzabile solo con strumenti di precisione. La runa applica le sue proprietà alla maggior parte dell'impulso, generando ottimi risultati relativamente al mana utilizzato.
 
-- **Grado 4 - Pura: (0.5x costo mana)**<br>
+- **Grado 4 - Potente: (0.5x costo mana)**<br>
 Questo tipo di runa è estremamente raro. Creare una runa di questo grado è riservato agli artigiani dotati di strumenti e abilità fuori dal comune. Le rune di questo grado applicano i loro effetti su tutto l'impulso, con minima dispersione di energia, generando un effetto potente per una quantità minore di mana.
 
 - **Grado 5 - Perfetta: (0.25x costo mana)**<br>

@@ -7,12 +7,29 @@ nav_order: 40
 
 # **Evocazione**
 
-Generare ed emettere un [**impulso arcano**][pulse] costringe il mana concentrato ad entrare a contatto con l'aria. Normalmente un impulso arcano si **dissolve** rapidamente nell'atmosfera, ma se il suo mana è influenzato da rune o effetti che ne modificano le qualità di [forma](./shape) e [sostanza](./substance), anziché dissiparsi si **riforma** in una nuova sostanza con le caratteristiche descritte dalle rune, in un processo noto come **evocazione**. La **potenza** delle caratteristiche manifestate durante l'**evocazione** dipende dalla **quantità di mana** concentrato nell'impulso arcano, dal **grado** delle rune e dal **talento** del creatore del [**nucleo arcano**](./arcane-core) da cui l’impulso ha origine.
+L'**evocazione** è il processo finale attraverso cui l'[impulso arcano](./mana-pulse) viene rilasciato e manifesta il proprio effetto magico. Questo accade completamente solo quando l'impulso entra in contatto con l'aria, momento in cui il potere e le caratteristiche accumulate tramite le rune si realizzano in pieno.
 
-Gli effetti manifestati dalle rune sono limitati da una **soglia di attivazione** e da quante volte il mana dell'impulso è in grado di superarla. Più sono le rune che influenzano il flusso, più mana sarà necessario per attivarne **tutti gli effetti**. Nel caso in cui il mana dell’impulso sia sufficiente per attivare tutte le rune **più di una volta**, gli effetti manifestati saranno **potenziati** per ogni volta che il mana **eccede** la soglia totale delle rune, determinando il **livello dell'evocazione**.
+### Categorie di rune
 
-Non c'è limite al livello massimo di un'evocazione, l'unico fattore che limita la potenza di un'evocazione è la quantità di mana concentrabile nel **nucleo arcano**, solitamente determinata dalla [**competenza arcana**](/attributes/arcane-proficiency) dell'evocatore.
+Le rune, essenziali per personalizzare un'evocazione, si dividono in tre categorie, ognuna delle quali determina aspetti differenti dell'impulso arcano:
 
-Il mana di un'evocazione **racchiuso in una forma** (come un [proiettile](./shape/projectile)) rimane in uno stato di evocazione parziale, e può subire ulteriori modifiche alle sue proprietà attraversando altre rune, finché non entra pienamente a contatto con l'aria. Questo rende possibile nullificare il mana contenuto in un proiettile con la runa di sostanza [**Nulla**](./substance/null) prima che i suoi effetti vengano evocati, intercettandone la traiettoria prima che il mana contenuto al suo interno venga evocato pienamente.
+- [**Rune di forma**](./shape/): Definiscono la **forma** e i **bersagli** dell’evocazione. Solo l'ultima runa di forma attraversata rimane attiva, poiché attivarne una sovrascrive le caratteristiche di forma precedenti.
+- [**Rune di sostanza**](./substance/): Determinano le **proprietà** e gli **effetti specifici** dell’evocazione, come il tipo di danno o condizioni speciali inflitte. Anche in questo caso, attivare una runa di sostanza disattiva qualsiasi runa di sostanza precedente.
+- [**Rune di controllo**](./control/): Applicano effetti che agiscono su **tutto l’impulso arcano** e l’evocazione finale. Le rune di controllo non vengono disattivate dall’attivazione di altre rune della stessa categoria, quindi gli effetti di più rune di controllo possono **sommarsi**.
 
-[pulse]: ./mana-pulse
+### Attivazione delle rune
+
+Una runa si **attiva** quando l’impulso arcano la attraversa. L'ordine di attivazione influenza le caratteristiche dell'evocazione:
+
+- Attivando una nuova runa di forma o di sostanza, tutte le rune precedenti della stessa categoria vengono disattivate. Solo l'ultima runa attivata in ciascuna categoria influenza l’impulso.
+- Le **rune di controllo** non vengono disattivate e continuano ad applicare i loro effetti fino all'evocazione.
+
+### Livello dell'evocazione
+
+La **potenza** di un’evocazione, nota come **livello dell’evocazione**, è determinata dalla quantità di mana contenuta nell'impulso arcano rispetto ai costi delle rune attivate.
+
+- **Costo in Mana**: Ogni runa ha un **costo in mana per livello** che determina quanta energia richiede per esprimere pienamente il proprio effetto.
+- **Calcolo del livello dell’evocazione**: Il livello dell'evocazione è pari a quante volte il mana contenuto nell'impulso arcano supera la **somma dei costi per livello** delle rune attivate. 
+  - Se il mana dell’impulso è insufficiente a soddisfare i costi complessivi, l’evocazione fallisce e non ha effetto.
+
+In questo modo, il livello dell'evocazione rappresenta il **grado di intensità** e l’efficacia dell’evocazione stessa. Gli evocatori devono quindi gestire attentamente il proprio mana e la sequenza delle rune da attivare per ottenere gli effetti desiderati.
