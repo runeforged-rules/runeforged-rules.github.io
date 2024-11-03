@@ -7,7 +7,7 @@ nav_order: 1
 
 # Qualità delle rune
 
-| Qualità       | Grado         | Costo         |
+| Qualità       | Grado         | Costo per livello |
 |:--------------|:--------------|:--------------|
 | Malfunzionante | 0 | 10x |
 | Semplice | 1 | 4x |
