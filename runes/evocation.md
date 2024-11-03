@@ -9,7 +9,7 @@ nav_order: 40
 
 L'**evocazione** è il processo finale attraverso cui l'[impulso arcano](./mana-pulse) viene rilasciato e manifesta il proprio effetto magico. Questo accade completamente solo quando l'impulso entra in contatto con l'aria, momento in cui il potere e le caratteristiche accumulate tramite le rune si realizzano in pieno.
 
-### Categorie di rune
+## **Categorie di rune**
 
 Le rune, essenziali per personalizzare un'evocazione, si dividono in tre categorie, ognuna delle quali determina aspetti differenti dell'impulso arcano:
 
@@ -17,14 +17,14 @@ Le rune, essenziali per personalizzare un'evocazione, si dividono in tre categor
 - [**Rune di sostanza**](./substance/): Determinano le **proprietà** e gli **effetti specifici** dell’evocazione, come il tipo di danno o condizioni speciali inflitte. Anche in questo caso, attivare una runa di sostanza disattiva qualsiasi runa di sostanza precedente.
 - [**Rune di controllo**](./control/): Applicano effetti che agiscono su **tutto l’impulso arcano** e l’evocazione finale. Le rune di controllo non vengono disattivate dall’attivazione di altre rune della stessa categoria, quindi gli effetti di più rune di controllo possono **sommarsi**.
 
-### Attivazione delle rune
+## **Attivazione delle rune**
 
 Una runa si **attiva** quando l’impulso arcano la attraversa. L'ordine di attivazione influenza le caratteristiche dell'evocazione:
 
 - Attivando una nuova runa di forma o di sostanza, tutte le rune precedenti della stessa categoria vengono disattivate. Solo l'ultima runa attivata in ciascuna categoria influenza l’impulso.
 - Le **rune di controllo** non vengono disattivate e continuano ad applicare i loro effetti fino all'evocazione.
 
-### Livello dell'evocazione
+## **Livello dell'evocazione**
 
 La **potenza** di un’evocazione, nota come **livello dell’evocazione**, è determinata dalla quantità di mana contenuta nell'impulso arcano rispetto ai costi delle rune attivate.
 
