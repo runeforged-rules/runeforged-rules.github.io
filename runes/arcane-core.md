@@ -7,7 +7,7 @@ nav_order: 20
 
 # **Nucleo arcano**
 
-Il **nucleo arcano** è un'entità magica che rappresenta la fonte primaria di energia di un evocatore. Crearlo è il primo passo per qualsiasi processo di [evocazione](./evocation). Generato concentrando il **mana** dell'evocatore, il nucleo arcano è caratterizzato da una notevole instabilità che limita il suo tempo di esistenza se non vengono applicate tecniche speciali.
+Il **nucleo arcano** è un costrutto magico che rappresenta la fonte primaria di energia per un'[evocazione](./evocation). Crearlo è il primo passo per qualsiasi processo di evocazione. Generato concentrando il **mana** dell'evocatore, il nucleo arcano è caratterizzato da una notevole instabilità che limita il suo tempo di esistenza se non vengono applicate tecniche speciali.
 
 ## **Caratteristiche del nucleo arcano**
 
