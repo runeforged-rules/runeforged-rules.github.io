@@ -7,7 +7,8 @@ layout: default
 
 # **Proiettile tracciante vuoto**
 
-Marchia un bersaglio e poi lancia un proiettile che lo insegue. Se lo colpisce o supera la gittata massima, assume la forma precedente nell'impulso.
+Questa runa non sostituisce la forma dell'evocazione, ma la conserva.
+Marchia un bersaglio e poi lancia un proiettile che lo insegue. Se lo colpisce o supera la gittata massima, l'evocazione assume la forma conservata.
 
 | **Bersagli primari**   | Nessuno                                       |
 | **Bersagli secondari** | Bersaglio colpito                             |
@@ -15,7 +16,7 @@ Marchia un bersaglio e poi lancia un proiettile che lo insegue. Se lo colpisce o
 | **Mod. difesa**        | Nessuno                                       |
 
 ## Effetto
-Marchia un bersaglio specifico. Il proiettile lanciato lo insegue, schivando gli ostacoli nel percorso. Se colpisce il bersaglio o supera la gittata, assume la forma precedente dell'impulso.
+Marchia un bersaglio specifico. Il proiettile lanciato lo insegue, schivando gli ostacoli nel percorso. Se colpisce il bersaglio o supera la gittata, l'evocazione assume la forma conservata.
 
 ## Qualità
 

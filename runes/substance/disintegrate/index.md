@@ -7,7 +7,7 @@ layout: default
 
 # **Disintegrazione**
 
-Trasforma l'impulso arcano in un'energia estremamente distruttiva, capace di disintegrare completamente la materia, riducendo bersagli e oggetti in polvere.
+Trasforma il mana arcano in un'energia estremamente distruttiva, capace di disintegrare completamente la materia, riducendo bersagli e oggetti in polvere.
 
 | **Tipo di danno**      | Puro                                      |
 | **Danni per LV**       | 100                                       |

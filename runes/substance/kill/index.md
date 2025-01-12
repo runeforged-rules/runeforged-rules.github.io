@@ -7,7 +7,7 @@ layout: default
 
 # **Morte**
 
-Trasforma l'impulso in un'energia inarrestabile e letale, capace di infliggere danni puri devastanti e decretare la fine definitiva dei bersagli.
+Trasforma il mana in un'energia inarrestabile e letale, capace di infliggere danni puri devastanti e decretare la fine definitiva dei bersagli.
 
 | **Tipo di danno**      | Puro                                      |
 | **Danni per LV**       | 10                                        |

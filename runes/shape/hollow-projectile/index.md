@@ -7,7 +7,8 @@ layout: default
 
 # **Proiettile vuoto**
 
-Lancia un proiettile che colpisce il primo oggetto che trova, assumendo una nuova forma in base alle rune dell'impulso.
+Questa runa non sostituisce la forma dell'evocazione, ma la conserva.
+Lancia un proiettile che colpisce il primo oggetto che trova. Se colpisce un bersaglio o supera la gittata massima, l'evocazione assume la forma conservata.
 
 | **Bersagli primari**   | Nessuno                                   |
 | **Bersagli secondari** | Primo oggetto colpito in una linea retta  |
@@ -15,7 +16,7 @@ Lancia un proiettile che colpisce il primo oggetto che trova, assumendo una nuov
 | **Mod. difesa**        | DEX                                       |
 
 ## Effetto
-Il proiettile viaggia in linea retta e colpisce il primo oggetto che trova. Dopo l'impatto o al raggiungimento della massima gittata, il proiettile assume la forma precedente dell'impulso, che origina dal punto e nella direzione dell'impatto.
+Il proiettile viaggia in linea retta e colpisce il primo oggetto che trova. Dopo l'impatto o al raggiungimento della massima gittata, l'evocazione assume la forma conservata, che origina dal punto e nella direzione dell'impatto.
 
 ## Qualità
 

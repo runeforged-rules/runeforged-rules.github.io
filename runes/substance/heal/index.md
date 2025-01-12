@@ -7,7 +7,7 @@ layout: default
 
 # **Cura**
 
-Trasforma l'impulso in un'energia rigenerante, capace di guarire ferite minori.
+Trasforma il mana in un'energia rigenerante, capace di guarire ferite minori.
 
 | **Tipo di danno**      | Nessuno                                   |
 | **Danni per LV**       | Nessuno                                   |

@@ -7,7 +7,7 @@ layout: default
 
 # **Ghiaccio**
 
-Trasforma l'impulso in un'energia congelante che ricopre i propri bersagli un rigido strato di ghiaccio.
+Trasforma il mana in un'energia congelante che ricopre i propri bersagli un rigido strato di ghiaccio.
 
 | **Tipo di danno**      | Freddo                                    |
 | **Danni per LV**       | 2                                         |

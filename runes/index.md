@@ -49,7 +49,7 @@ La forma più complessa realizzabile a mano. Abbastanza efficiente da poter mani
 Realizzabile solo con strumenti di precisione. La runa applica le sue proprietà alla maggior parte dell'impulso, generando ottimi risultati relativamente al mana utilizzato.
 
 - **Grado 4 - Potente: (0.5x costo mana)**<br>
-Questo tipo di runa è estremamente raro. Creare una runa di questo grado è riservato agli artigiani dotati di strumenti e abilità fuori dal comune. Le rune di questo grado applicano i loro effetti su tutto l'impulso, con minima dispersione di energia, generando un effetto potente per una quantità minore di mana.
+Questo tipo di runa è estremamente raro. Solamente artigiani dotati di strumenti e abilità fuori dal comune sono in grado di forgiare rune di questo grado. Le rune di questo grado applicano i loro effetti su tutto l'impulso, con minima dispersione di energia, generando un effetto potente per una quantità minore di mana.
 
 - **Grado 5 - Perfetta: (0.25x costo mana)**<br>
 Le rune di grado 5 sono estremamente complesse. La quantità di tempo, risorse e precisione richieste per forgiarle le rende totalmente inaccessibili alla persona comune. Una runa di questo grado è talmente elaborata da agire efficacemente su tutto l'impulso senza alcuna perdita di energia.

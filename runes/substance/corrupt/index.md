@@ -7,7 +7,7 @@ layout: default
 
 # **Corruzione**
 
-Trasforma l'impulso in un'energia malefica che infligge danni puri e corrompe il mana dei bersagli, causando effetti debilitanti.  
+Trasforma il mana in un'energia malefica che infligge danni puri e corrompe il mana dei bersagli, causando effetti debilitanti.  
 Il possesso e l'utilizzo di questa runa sono **proibiti**.
 
 | **Tipo di danno**      | Puro                                      |

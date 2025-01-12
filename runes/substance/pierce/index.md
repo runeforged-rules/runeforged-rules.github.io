@@ -7,7 +7,7 @@ layout: default
 
 # **Freccia**
 
-Trasforma l'impulso in un'energia affilata e perforante, capace di causare danni profondi ai bersagli colpiti.
+Trasforma il mana in un'energia affilata e perforante, capace di causare danni profondi ai bersagli colpiti.
 
 | **Tipo di danno**      | Perforante                                |
 | **Danni per LV**       | 2                                         |

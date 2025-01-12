@@ -7,7 +7,7 @@ layout: default
 
 # **Spinta**
 
-Trasforma l'impulso in un'onda di energia cinetica, capace di spostare i bersagli e infliggere danni da impatto.
+Trasforma il mana in un'onda di energia cinetica, capace di spostare i bersagli e infliggere danni da impatto.
 
 | **Tipo di danno**      | Impatto                                   |
 | **Danni per LV**       | 2                                         |
