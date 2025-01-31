@@ -1,0 +1,23 @@
+runes:
+wall (imgs)
+barrier (imgs)
+mass
+melt
+oil
+petrify
+plasma
+revive
+shine
+smoke
+sound
+teleport
+
+
+combat:
+
+
+adventure:
+
+
+attributes:
+character sheet
