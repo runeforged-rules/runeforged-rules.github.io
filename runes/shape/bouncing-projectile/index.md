@@ -9,8 +9,8 @@ layout: default
 
 Lancia un proiettile che rimbalza dopo aver colpito il primo oggetto, continuando a viaggiare e colpendo un secondo bersaglio.
 
-| **Bersagli primari**   | Secondo oggetto colpito dopo il rimbalzo  |
-| **Bersagli secondari** | Primo oggetto colpito                     |
+| **Bersagli primari**   | Secondo bersaglio colpito dopo il rimbalzo  |
+| **Bersagli secondari** | Primo bersaglio colpito                     |
 | **Costo base per LV**  | 150 mana                                  |
 | **Mod. difesa**        | DEX                                       |
 
