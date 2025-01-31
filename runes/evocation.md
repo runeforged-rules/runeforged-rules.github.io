@@ -7,7 +7,7 @@ nav_order: 40
 
 # **Evocazione**
 
-L'**evocazione** è il processo finale attraverso cui l'[impulso arcano](./mana-pulse) viene rilasciato e manifesta il proprio effetto magico. Questo accade completamente solo quando l'impulso entra in contatto con l'aria, momento in cui il potere e le caratteristiche accumulate tramite le rune si realizzano in pieno.
+L'**evocazione** è il processo finale attraverso cui il mana viene rilasciato e manifesta gli effetti magici che le rune hanno definito. Questo accade pienamente solo quando il mana entra in contatto con l'aria.
 
 ## **Categorie di rune**
 
