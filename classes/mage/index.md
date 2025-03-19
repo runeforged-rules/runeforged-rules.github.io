@@ -14,7 +14,7 @@ Descrizione del mago
 | **Livello 2** | **Scelta del percorso**: [Alchimista](./alchemist) / [Runeologo](./runemaster).|
 | **Livello 3** | **Scrittura rapida**: Puoi scrivere rune anche **durante il combattimento**.|
 | **Livello 4** | **Studio runico**: Sei capace di scrivere rune fino a **grado 3**.|
-| **Livello 5** | **Preparazione arcana** Lv.1: Puoi usare **1 azione** per generare un [nucleo arcano](/runes/arcane-core) stabile. Il mana di questo nucleo verrà **aggiunto al mana del prossimo nucleo** evocato (puoi superare la soglia massima della tua [competenza arcana](/attributes/arcane-proficiency)). Un solo nucleo stabile può essere mantenuto contemporaneamente, e il nucleo stabile si dissipa dopo **1 turno**.|
+| **Livello 5** | **Preparazione arcana** Lv.1: Puoi usare **1 azione** per generare un [nucleo arcano](/runes/arcane-core) stabile. Il nucleo stabile e i nuclei arcani possono essere mantenuti contemporaneamente, ma il nucleo stabile si dissipa dopo **1 turno** o se un altro nucleo stabile viene creato.|
 | **Livello 6** | **Abilità del percorso**: [Alchimista](./alchemist) / [Runeologo](./runemaster).|
 | **Livello 7** | **Maestria runica**: Sei capace di scrivere rune fino a **grado 4**.|
 | **Livello 8** | **Batteria arcana**: Il tuo corpo è in grado di assorbire e trattenere più mana del normale, aumentando il tuo mana massimo di **1000 per livello** di mago.|
