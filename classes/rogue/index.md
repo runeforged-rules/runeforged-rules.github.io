@@ -16,7 +16,7 @@ Descrizione dell'assassino
 | **Livello 4** | **Abilità del percorso**: [Sicario](./assassin) / [Ingannatore](./trickster).|
 | **Livello 5** | **Runa di scatto fulmineo** Lv.2: La runa di scatto fulmineo può raggiungere una distanza di 20 metri, e il costo in mana è ridotto a **5 PM** per metro. Puoi sovraccaricare la runa usando **20 PM** per metro per scattare come azione gratuita nel tuo turno, questo scatto può oltrepassare gli ostacoli significativi e non lascia una scia visibile, ma non infligge stordimento alle creature attraversate. |
 | **Livello 6** | **Abilità del percorso**: [Sicario](./assassin) / [Ingannatore](./trickster).|
-| **Livello 7** | **Studi anatomici** Lv.2: Quando colpisci un essere umano con un colpo preciso **alla testa** che infliggerebbe una ferita, il suo [tiro mortale](/attributes/health#tiro-mortale) su quella ferita **fallisce automaticamente**. Hai vantaggio nei tiri di prova su PRE o ARC quando usi uno strumento per guarire una ferita. |
+| **Livello 7** | **Schivata precisa**: Quando effettui la reazione di schiavata, riduci il risultato del tiro per colpire di un numero pari al tuo modificatore di DES + il tuo modificatore di PRE. |
 | **Livello 8** | **Abilità del percorso**: [Sicario](./assassin) / [Ingannatore](./trickster).|
-| **Livello 9** | **Rianimazione**: Una volta al giorno, usando due azioni, puoi spendere 10000 PM per rianimare una creatura che è morta da meno di un minuto. |
+| **Livello 9** | **Runa di scatto fulmineo** Lv.3: La runa di scatto fulmineo può raggiungere una distanza di 30 metri, e puoi pagare il doppio di **PM** per poter attaccare una creatura che oltrepassi. |
 | **Livello 10** | **Abilità del percorso**: [Sicario](./assassin) / [Ingannatore](./trickster).|
