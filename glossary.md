@@ -15,6 +15,8 @@ nav_order: 0
 
 ## Terminologia
 
+| **Azione** | La risorsa che regola quante azioni un personaggio può compiere in un turno durante il combattimento. Ogni creatura comincia il proprio turno con 3 azioni. |
+| **Reazione** | Un'azione che viene usata fuori dal proprio turno per agire in risposta all'azione di un altra creatura in combattimento. |
 | **Creatura** | Un essere vivente capace di interagire attivamente con l'ambiente circostante. |
 | **Evocatore** | Persona o creatura in grado di controllare il proprio mana a sufficienza per produrre effetti visibili nel mondo esterno. |
 | **Mana** | Una sostanza eterea e mutabile, con potenziale immenso ma difficile da realizzare. È controllabile da certe creature e può essere modellata dalle rune per manifestare una delle sue innumerevoli forme a comando. |
