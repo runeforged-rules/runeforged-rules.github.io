@@ -11,7 +11,7 @@ Trasforma il mana in una sostanza solida e trasparente come il cristallo, in gra
 
 | **Tipo di danno**      | Impatto                                   |
 | **Danni per LV**       | 2                                         |
-| **Costo base per LV**  | 700 mana                                  |
+| **Costo base per LV**  | 800 mana                                  |
 
 ## Effetto
 L'evocazione assume l'aspetto di un cristallo massiccio, infliggendo danni da impatto e applicando l'effetto di stordimento alle creature colpite. Se l'evocazione colpisce una superficie solida, genera un cristallo alto 1 metro con punti vita (PS) pari a 5 volte il LV dell'evocazione.  
