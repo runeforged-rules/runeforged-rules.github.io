@@ -7,8 +7,11 @@ has_toc: false
 
 # **Regole del combattimento**
 
-Il com
+Regole del combattimento di Runeforged.
 
 # **Indice**
 
 * [**Azioni**](./actions/)
+	* [**Attacco**](./actions/attack)
+	* [**Evocazione**](./actions/evocation)
+	* [**Movimento**](./actions/movement)
