@@ -7,17 +7,17 @@ layout: default
 
 # **Corruzione**
 
-Trasforma il mana in un'energia malefica che infligge danni puri e corrompe il mana dei bersagli, causando effetti debilitanti.  
+Trasforma il mana in un'energia malefica che danneggia l'organismo e corrompe il mana dei bersagli, causando effetti debilitanti.  
 Il possesso e l'utilizzo di questa runa sono **proibiti**.
 
 | **Tipo di danno**      | Puro                                      |
-| **Danni per LV**       | 2                                         |
-| **Costo base per LV**  | 800 mana                                  |
+| **Danni per LV**       | 1                                         |
+| **Costo base per LV**  | 900 mana                                  |
 
 ## Effetto
 L'evocazione si manifesta come un'energia oscura e corruttrice, infliggendo danni puri e causando corruzione del mana nelle creature colpite.  
-- **Bersagli primari**: Per ogni LV dell'evocazione subiscono 2 danni puri e 2 livelli di corruzione. Se superano un tiro salvezza su COS o ARC (CD 9 + LV) i livelli di corruzione subiti sono dimezzati.
-- **Bersagli secondari**: Per ogni LV dell'evocazione subiscono 1 danno puro e 1 livello di corruzione. Se superano un tiro salvezza su COS o ARC (CD 9 + LV) i livelli di corruzione subiti sono dimezzati (arrotondare per difetto).
+- **Bersagli primari**: Subiscono danni puri e livelli di corruzione pari al LV dell'evocazione.
+- **Bersagli secondari**: Subiscono danni puri e livelli di corruzione pari alla metà del LV dell'evocazione (arrotondare per difetto).
 
 ## Modello
 - ### Grado 1<br>

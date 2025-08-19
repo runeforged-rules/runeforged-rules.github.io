@@ -15,8 +15,8 @@ Transforma il mana in una sostanza estremamente infiammabile, in grado di prende
 
 ## Effetto
 L'evocazione assume l'aspetto di una fiamma viva, dando fuoco a oggetti infiammabili con cui viene a contatto e infiggendo danni da fuoco alle creature colpite.  
-- **Bersagli primari**: Per ogni LV dell'evocazione subiscono 2 danni da fuoco e 1 livello di bruciatura. Se superano un tiro salvezza su COS o ARC (CD 8 + LV) i livelli di bruciatura subiti sono dimezzati.
-- **Bersagli secondari**: Per ogni LV dell'evocazione subiscono 1 danno da fuoco. Se falliscono un tiro salvezza su COS o ARC (CD 8 + LV) ricevono livelli di bruciatura pari alla metà del LV dell'evocazione, e non subiscono bruciatura se il tiro ha successo.
+- **Bersagli primari**: Subiscono danni da fuoco pari al doppio del LV dell'evocazione.
+- **Bersagli secondari**: Subiscono danni da fuoco pari al LV dell'evocazione.
 
 ## Modello
 - ### Grado 1<br>
