@@ -5,32 +5,36 @@ has_children: true
 has_toc: false
 ---
 
-# **Indice delle classi**
+# **Classi**
+
+
+
+## **Indice delle classi**
 
 * [**Berserker**](./berserker/)
     - [Turbine di lame](./berserker/steel-storm)
     - [Colpo dirompente](./berserker/heavy-blade)
-* **Guerriero**
-    - Specialista
-    - Campione
+* [**Guerriero**](./warrior/)
+    - [Duellante](./warrior/duelist)
+    - [Carnefice](./warrior/executioner)
 * [**Guardiano**](./guardian/)
     - [Paladino](./guardian/paladin)
     - [Condottiero](./guardian/commander)
 * [**Tiratore**](./sharpshooter/)
-    - [Cecchino](./sharpshooter/sniper.md)
-    - [Pistolero](./sharpshooter/gunslinger.md)
-* **Medico**
-    - Chiurgo
-    - Guaritore
+    - [Cecchino](./sharpshooter/sniper)
+    - [Pistolero](./sharpshooter/gunslinger)
+* [**Medico**](./medic/)
+    - [Chiurgo](./medic/surgeon)
+    - [Guaritore](./medic/healer)
 * **Meccanico**
     - Ingegnere
     - Inventore
-* **Ladro**
-    - Assassino
-    - Truffatore
+* [**Ladro**](./rogue/)
+    - [Assassino](./rogue/assassin)
+    - [Truffatore](./rogue/trickster)
 * [**Arcanista**](./arcanist/)
-    - [Elementalista](./arcanist/elementalist.md)
-    - [Stregone](./arcanist/sorcerer.md)
+    - [Elementalista](./arcanist/elementalist)
+    - [Stregone](./arcanist/sorcerer)
 * [**Mago**](./mage/)
-    - Alchimista
-    - Runeologo
+    - [Alchimista](./mage/alchemist)
+    - [Runeologo](./mage/runemaster)
