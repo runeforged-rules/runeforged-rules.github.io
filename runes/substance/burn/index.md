@@ -11,7 +11,7 @@ Transforma il mana in una sostanza estremamente infiammabile, in grado di prende
 
 | **Tipo di danno**      | Fuoco                                     |
 | **Danni per LV**       | 2                                         |
-| **Costo base per LV**  | 200 mana                                  |
+| **Costo base per LV**  | 400 mana                                  |
 
 ## Effetto
 L'evocazione assume l'aspetto di una fiamma viva, dando fuoco a oggetti infiammabili con cui viene a contatto e infiggendo danni da fuoco alle creature colpite.  
