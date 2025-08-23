@@ -15,8 +15,8 @@ Trasforma il mana in un'energia affilata e perforante, capace di causare danni p
 
 ## Effetto
 L'evocazione prende la forma di una freccia energetica affilata, infliggendo danni perforanti e causando sanguinamento nelle creature colpite.  
-- **Bersagli primari**: Per ogni LV dell'evocazione subiscono 2 danni perforanti e 1 livello di sanguinamento. Se superano un tiro salvezza su COS (CD 9 + LV) i livelli di sanguinamento subiti sono dimezzati.
-- **Bersagli secondari**: Per ogni LV dell'evocazione subiscono 1 danno perforante. Se falliscono un tiro salvezza su COS (CD 9 + LV) ricevono 1 livello di sanguinamento, e non subiscono sanguinamento se il tiro ha successo.
+- **Bersagli primari**: Per ogni LV dell'evocazione subiscono 2 danni perforanti e 1 livello di sanguinamento. Se superano un tiro salvezza su COS (CD 9 + LV) i livelli di sanguinamento subiti sono dimezzati (arrotondare per difetto).
+- **Bersagli secondari**: Per ogni LV dell'evocazione subiscono 1 danno perforante.
 
 ## Modello
 - ### Grado 1<br>
