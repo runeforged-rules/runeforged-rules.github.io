@@ -15,8 +15,8 @@ Trasforma il mana in un'energia elettrica concentrata, capace di folgorare i ber
 
 ## Effetto
 L'evocazione assume l'aspetto di una scarica elettrica, infliggendo danni da fulmine e applicando l'effetto di folgorazione alle creature colpite.  
-- **Bersagli primari**: Per ogni LV dell'evocazione subiscono 1 danno da fulmine e 1 livello di folgorazione. Se superano un tiro salvezza su COS o ARC (CD 9 + LV) i livelli di folgorazione subiti sono dimezzati.
-- **Bersagli secondari**: Per ogni LV dell'evocazione subiscono 1 danno da fulmine. Se falliscono un tiro salvezza su COS o ARC (CD 9 + LV) ricevono 1 livello di folgorazione, e non subiscono folgorazione se il tiro ha successo.
+- **Bersagli primari**: Per ogni LV dell'evocazione subiscono 1 danno da fulmine.
+- **Bersagli secondari**: Per ogni due LV dell'evocazione subiscono 1 danno da fulmine.
 
 ## Modello
 - ### Grado 1<br>
