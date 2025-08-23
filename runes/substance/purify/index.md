@@ -11,7 +11,7 @@ Trasforma il mana arcano in un'energia purificante, capace di liberare il bersag
 
 | **Tipo di danno**      | Nessuno                                   |
 | **Danni per LV**       | 0                                         |
-| **Costo base per LV**  | 500 mana                                  |
+| **Costo base per LV**  | 600 mana                                  |
 
 ## Effetto
 Il mana si manifesta come un’ondata di energia purificatrice che contrasta e dissolve gli effetti debilitanti e le corruzioni di origine arcana accumulate dal bersaglio.  
