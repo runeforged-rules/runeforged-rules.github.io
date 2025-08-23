@@ -15,7 +15,7 @@ Trasforma il mana arcano in un’energia di guarigione completa e profonda, in g
 
 ## Effetto
 Il mana si trasforma in una forza rigeneratrice intensa, capace di ripristinare completamente i punti salute del bersaglio e di rimuovere ferite mortali.  
-- **Bersagli primari**: Il bersaglio recupera completamente i suoi punti salute (PS) e, se possiede uno stato di ferita mortale, questo viene rimosso immediatamente.
+- **Bersagli primari**: Il bersaglio recupera completamente i suoi punti salute (PS) e, se possiede uno stato di ferita mortale, questo viene rimosso immediatamente. Per ogni LV sopra il primo guarisce 1 ferita.
 - **Bersagli secondari**: Il bersaglio recupera la metà dei suoi PS massimi.
 
 ## Modello
