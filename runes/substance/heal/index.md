@@ -14,7 +14,7 @@ Trasforma il mana in un'energia rigenerante, capace di guarire ferite minori.
 | **Costo base per LV**  | 300 mana                                  |
 
 ## Effetto
-L'evocazione prende la forma di un vortice di energia curativa, ripristinando i PS dei bersagli colpiti.  
+L'evocazione prende la forma di una nuvola di energia curativa, ripristinando i PS dei bersagli colpiti.  
 - **Bersagli primari**: Per ogni LV dell'evocazione recuperano 2 PS.
 - **Bersagli secondari**: Per ogni LV dell'evocazione recuperano 1 PS.
 
