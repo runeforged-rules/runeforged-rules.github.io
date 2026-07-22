@@ -42,19 +42,26 @@ fi
 echo "Switching to branch: $BRANCH"
 git checkout $BRANCH || git checkout -b $BRANCH origin/$BRANCH
 
-# 4. Building Docker Image (to ensure Jekyll environment)
+# 4. Preparing Docker environment
+echo "Creating .dockerignore..."
+cat <<DOCKERIGNORE > .dockerignore
+Gemfile.lock
+.git
+.jekyll-cache
+_site
+DOCKERIGNORE
+
 echo "Preparing Jekyll environment via Docker..."
 cat <<DOCKERFILE > Dockerfile.deploy
 FROM ruby:3.1
 RUN apt-get update && apt-get install -y build-essential git
 RUN gem install jekyll bundler
 WORKDIR /srv/jekyll
-COPY Gemfile ./
-# Build the gems and a fresh lockfile inside the image
-RUN rm -f Gemfile.lock && bundle install
-# Copy everything else
+# Copy everything (Gemfile.lock is ignored via .dockerignore)
 COPY . .
-# Final build
+# Fresh install for the current platform
+RUN bundle install
+# Build the site inside the image
 RUN bundle exec jekyll build
 CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--incremental"]
 DOCKERFILE
@@ -68,8 +75,8 @@ docker stop runeforged-instance 2>/dev/null || true
 docker rm runeforged-instance 2>/dev/null || true
 
 # Run the container
-# We mount the major content directories and config, but NOT the root
-# to avoid the Gemfile/Lockfile conflict with the host.
+# We mount the major content directories and config.
+# This keeps the host's Gemfile.lock out of the container entirely.
 echo -e "${GREEN}>>> Site will be available at http://localhost:4000${NC}"
 docker run -d \
   --name runeforged-instance \
