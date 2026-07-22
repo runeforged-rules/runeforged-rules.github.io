@@ -49,8 +49,10 @@ RUN apt-get update && apt-get install -y build-essential git
 RUN gem install jekyll bundler
 WORKDIR /srv/jekyll
 COPY Gemfile ./
-# Delete the lockfile if it exists and rebuild it for the current platform
+# Build the gems INTO a system path inside the image
 RUN rm -f Gemfile.lock && bundle install
+# Copy the code after bundle install
+COPY . .
 CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--incremental"]
 DOCKERFILE
 
@@ -63,11 +65,13 @@ docker stop runeforged-instance 2>/dev/null || true
 docker rm runeforged-instance 2>/dev/null || true
 
 # Run the container
+# We mount the source code but carefully avoid overwriting the gems/lockfile
 echo -e "${GREEN}>>> Site will be available at http://localhost:4000${NC}"
 docker run -d \
   --name runeforged-instance \
   -p 4000:4000 \
   -v "$(pwd):/srv/jekyll" \
+  -v "/srv/jekyll/Gemfile.lock" \
   runeforged-site
 
 echo -e "${GREEN}>>> Deployment successful!${NC}"
