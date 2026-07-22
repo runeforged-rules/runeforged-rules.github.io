@@ -48,11 +48,9 @@ FROM ruby:3.1-slim
 RUN apt-get update && apt-get install -y build-essential git
 RUN gem install jekyll bundler
 WORKDIR /srv/jekyll
-COPY Gemfile* ./
-# Add the local platform to the lockfile and install
-RUN bundle lock --add-platform x86_64-linux && \
-    bundle config set --local deployment 'false' && \
-    bundle install
+COPY Gemfile ./
+# Delete the lockfile if it exists and rebuild it for the current platform
+RUN rm -f Gemfile.lock && bundle install
 CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--incremental"]
 DOCKERFILE
 
