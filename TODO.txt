@@ -1,23 +1,35 @@
 runes:
-wall (imgs)
-barrier (imgs)
-mass
-melt
-oil
-petrify
-plasma
-revive
-shine
-smoke
-sound
-teleport
-
+- shape/wall (imgs)
+- shape/barrier (imgs)
+- substance/mass
+- substance/melt (acid/fusion)
+- substance/oil
+- substance/petrify
+- substance/plasma
+- substance/revive
+- substance/shine
+- substance/smoke
+- substance/teleport
+- substance/sound
+- control/acceleration
+- control/slowdown
+- control/split
+- control/condition-alternation
+- control/condition-inverse
+- control/condition-pressure
+- control/condition-threshold
+- control/condition-temperature
 
 combat:
-
+- actions
+- movement
+- states
 
 adventure:
-
+- travel
+- survival
 
 attributes:
-character sheet
+- character sheet
+- inventory
+- equipment
