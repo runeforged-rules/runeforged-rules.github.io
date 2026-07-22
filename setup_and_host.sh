@@ -50,10 +50,12 @@ RUN apt-get update && apt-get install -y build-essential git
 RUN gem install jekyll bundler
 WORKDIR /srv/jekyll
 COPY Gemfile ./
-# Build a fresh lockfile inside the image for Linux x64
+# Build the gems and a fresh lockfile inside the image
 RUN rm -f Gemfile.lock && bundle install
-# Copy the rest of the code
+# Copy everything else
 COPY . .
+# Final build
+RUN bundle exec jekyll build
 CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--incremental"]
 DOCKERFILE
 
@@ -66,15 +68,16 @@ docker stop runeforged-instance 2>/dev/null || true
 docker rm runeforged-instance 2>/dev/null || true
 
 # Run the container
-# We use an anonymous volume (-v /srv/jekyll/Gemfile.lock) to prevent the 
-# host's incompatible lockfile from overwriting the one we built in the image.
+# We mount the major content directories and config, but NOT the root
+# to avoid the Gemfile/Lockfile conflict with the host.
 echo -e "${GREEN}>>> Site will be available at http://localhost:4000${NC}"
 docker run -d \
   --name runeforged-instance \
   -p 4000:4000 \
-  -v "$(pwd):/srv/jekyll" \
-  -v /srv/jekyll/Gemfile.lock \
-  -v /srv/jekyll/.jekyll-cache \
+  -v "$(pwd)/it:/srv/jekyll/it" \
+  -v "$(pwd)/en:/srv/jekyll/en" \
+  -v "$(pwd)/_config.yml:/srv/jekyll/_config.yml" \
+  -v "$(pwd)/index.md:/srv/jekyll/index.md" \
   runeforged-site
 
 echo -e "${GREEN}>>> Deployment successful!${NC}"
